@@ -29,12 +29,13 @@ bio: Resercher @ CNPEM/LNLS
 
 # Interests to show in About widget
 interests:
-  - Data science
-  - Artificial intelligence
-  - Machine learning
-  - Computer vision
-  - High-performance computing
-  - Synchrotron radiation applications
+  - Data Science
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - High-Performance Machine Learning
+  - Synchrotron Radiation Applications
+  - X-ray Data Analysis
 
 # Education to show in About widget
 education:
