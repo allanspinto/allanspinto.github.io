@@ -8,9 +8,9 @@ authors:
 - Marije Elferink-Gemser
 - Sergio Cunha
 date: '2022-01-01'
-publishDate: '2023-12-14T17:25:07.464698Z'
+publishDate: '2023-12-14T17:43:59.045467Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Human Movement*'
 doi: 10.5114/hm.2021.104182
 abstract: Dribbling is a meaningful skill in soccer, due to its effectiveness to create
@@ -38,4 +38,5 @@ abstract: Dribbling is a meaningful skill in soccer, due to its effectiveness to
 links:
 - name: URL
   url: http://dx.doi.org/10.5114/hm.2021.104182
+featured: false
 ---

@@ -11,9 +11,9 @@ authors:
 - Lin Tzy Li.
 - Ricardo da S. Torres.
 date: '2020-01-01'
-publishDate: '2023-12-14T17:25:07.382711Z'
+publishDate: '2023-12-14T17:43:57.924754Z'
 publication_types:
-- paper-conference
+- '1'
 publication: '*Proceedings of the 15th International Joint Conference on Computer
   Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP,*'
 doi: 10.5220/0008954103430350
@@ -34,4 +34,5 @@ tags:
 - Computer Vision
 - Mobile Devices
 url_pdf: files/publications/2020-Decker2020VISAPP.pdf
+featured: false
 ---

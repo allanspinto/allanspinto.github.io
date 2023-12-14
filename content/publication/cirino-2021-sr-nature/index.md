@@ -11,9 +11,9 @@ authors:
 - Marlene A. Moreno
 - Fúlvia B. Manchado-Gobatto
 date: '2021-05-01'
-publishDate: '2023-12-14T17:25:07.449873Z'
+publishDate: '2023-12-14T17:43:58.735300Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Scientific Reports*'
 doi: 10.1038/s41598-021-90394-1
 abstract: 'This study investigated the effects of inspiratory muscle pre-activation
@@ -37,4 +37,5 @@ abstract: 'This study investigated the effects of inspiratory muscle pre-activat
 links:
 - name: URL
   url: https://doi.org/10.1038/s41598-021-90394-1
+featured: false
 ---

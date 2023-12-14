@@ -11,9 +11,9 @@ authors:
 - Helio Pedrini
 - Ricardo Torres
 date: '2019-08-01'
-publishDate: '2023-12-14T17:25:07.397861Z'
+publishDate: '2023-12-14T17:43:58.076990Z'
 publication_types:
-- paper-conference
+- '1'
 publication: '*Anais Estendidos da XXXII Conference on Graphics, Patterns and Images*'
 doi: 10.5753/sibgrapi.est.2019.8333
 abstract: 'LocalizaÃ§Ã£o e Reconhecimento de texto em cena Ã© um tÃ³pico em visÃ£o
@@ -36,4 +36,5 @@ tags:
 - Computer Vision
 - Mobile Devices
 url_pdf: files/publications/2019-Conceicao2019SIBGRAPI.pdf
+featured: false
 ---

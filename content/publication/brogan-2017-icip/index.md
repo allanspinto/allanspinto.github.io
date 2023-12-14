@@ -12,9 +12,9 @@ authors:
 - A. Rocha
 - W. Scheirer
 date: '2017-09-01'
-publishDate: '2023-12-14T17:25:07.297787Z'
+publishDate: '2023-12-14T17:43:56.732267Z'
 publication_types:
-- paper-conference
+- '1'
 publication: '*IEEE International Conference on Image Processing (ICIP)*'
 doi: 10.1109/ICIP.2017.8297049
 abstract: As image tampering becomes ever more sophisticated and commonplace, the
@@ -38,4 +38,5 @@ tags:
 - Multimedia Forensics
 - Image Phylogeny
 url_pdf: files/publications/2017-Brogan2017ICIP.pdf
+featured: false
 ---

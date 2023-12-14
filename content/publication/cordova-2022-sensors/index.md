@@ -9,9 +9,9 @@ authors:
 - Helio Pedrini
 - Ricardo da S. Torres
 date: '2022-01-01'
-publishDate: '2023-12-14T17:25:07.480218Z'
+publishDate: '2023-12-14T17:43:59.202033Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Sensors*'
 doi: 10.3390/s22020548
 abstract: Pollution in the form of litter in the natural environment is one of the
@@ -34,4 +34,5 @@ abstract: Pollution in the form of litter in the natural environment is one of t
 links:
 - name: URL
   url: https://www.mdpi.com/1424-8220/22/2/548
+featured: false
 ---

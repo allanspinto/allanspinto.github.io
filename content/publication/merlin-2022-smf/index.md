@@ -9,9 +9,9 @@ authors:
 - Ricardo Da Silva Torres
 - Sergio Augusto Cunha
 date: '2022-10-01'
-publishDate: '2023-12-14T17:25:07.559075Z'
+publishDate: '2023-12-14T17:44:00.156095Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Science and Medicine in Football*'
 doi: 10.1080/24733938.2021.1986227
 abstract: Introduction Usually, the players’ or teams’ efficiency to perform passes
@@ -34,4 +34,5 @@ abstract: Introduction Usually, the players’ or teams’ efficiency to perform
 links:
 - name: URL
   url: https://doi.org/10.1080/24733938.2021.1986227
+featured: false
 ---

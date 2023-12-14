@@ -11,9 +11,9 @@ authors:
 - Thiago V. Spina
 - Eduardo X. Miqueles
 date: '2022-07-01'
-publishDate: '2023-12-14T17:25:07.504084Z'
+publishDate: '2023-12-14T17:43:59.503686Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Synchrotron Radiation News*'
 doi: 10.1080/08940886.2022.2112501
 abstract: Recent advances in machine learning and scientific visualization have revolutionized
@@ -40,6 +40,7 @@ tags:
 - Machine Learning
 - Scientific Visualization
 - Deep Learning
+- Synchrotron radiation application
 links:
 - name: URL
   url: https://doi.org/10.1080/08940886.2022.2112501

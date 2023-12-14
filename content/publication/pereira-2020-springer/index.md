@@ -10,9 +10,9 @@ authors:
 - Marcos V. M. Cirne
 - Anderson Rocha
 date: '2020-01-01'
-publishDate: '2023-12-14T17:25:07.358614Z'
+publishDate: '2023-12-14T17:43:57.592707Z'
 publication_types:
-- chapter
+- '6'
 publication: '*Deep Biometrics*'
 doi: 10.1007/978-3-030-32583-1_13
 abstract: 'Biometric systems are prevalent in access control but are vulnerable to
@@ -39,4 +39,5 @@ tags:
 - Information Security
 - Digital Image Forensics
 url_pdf: files/publications/2020-Pereira2020Springer.pdf
+featured: false
 ---

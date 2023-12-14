@@ -9,9 +9,9 @@ authors:
 - A. Xavier Falcao
 - A. Rocha
 date: '2015-04-01'
-publishDate: '2023-12-14T17:25:07.267259Z'
+publishDate: '2023-12-14T17:43:56.412937Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*IEEE Transactions on Information Forensics and Security (T-IFS)*'
 doi: 10.1109/TIFS.2015.2398817
 abstract: Biometrics systems have significantly improved person identification and
@@ -41,4 +41,5 @@ tags:
 - Information Security
 - Digital Image Forensics
 url_pdf: files/publications/2015-Menotti2015TIFS.pdf
+featured: false
 ---

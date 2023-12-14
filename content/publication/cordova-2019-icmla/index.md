@@ -11,9 +11,9 @@ authors:
 - H. Pedrini
 - R. da S. Torres
 date: '2019-12-01'
-publishDate: '2023-12-14T17:25:07.374719Z'
+publishDate: '2023-12-14T17:43:57.751605Z'
 publication_types:
-- paper-conference
+- '1'
 publication: '*2019 18th IEEE International Conference On Machine Learning And Applications
   ( ICMLA)*'
 doi: 10.1109/ICMLA.2019.00075
@@ -37,4 +37,5 @@ tags:
 - Computer Vision
 - Mobile Devices
 url_pdf: files/publications/2019-Cordova2019ICMLA.pdf
+featured: false
 ---

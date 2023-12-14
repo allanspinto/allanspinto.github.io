@@ -9,9 +9,9 @@ authors:
 - Ricardo da S. Torres
 - Fabio A. Barbieri
 date: '2022-01-01'
-publishDate: '2023-12-14T17:25:07.496049Z'
+publishDate: '2023-12-14T17:43:59.425207Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*International Journal of Environmental Research and Public Health*'
 doi: 10.3390/ijerph19031179
 abstract: Kicking is a fundamental skill in soccer that often contributes to match
@@ -41,4 +41,5 @@ abstract: Kicking is a fundamental skill in soccer that often contributes to mat
 links:
 - name: URL
   url: https://www.mdpi.com/1660-4601/19/3/1179
+featured: false
 ---

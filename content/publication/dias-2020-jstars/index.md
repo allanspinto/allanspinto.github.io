@@ -8,9 +8,9 @@ authors:
 - G. Le Maire
 - R. d. S. Torres
 date: '2020-07-01'
-publishDate: '2023-12-14T17:25:07.367046Z'
+publishDate: '2023-12-14T17:43:57.670915Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*IEEE Journal of Selected Topics in Applied Earth Observations and Remote
   Sensing*'
 doi: 10.1109/JSTARS.2020.3012117
@@ -28,4 +28,5 @@ tags:
 - Machine Learning
 - Fusion Information
 url_pdf: files/publications/2020-Dias2020JSTARS.pdf
+featured: false
 ---

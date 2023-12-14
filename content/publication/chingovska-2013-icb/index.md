@@ -9,9 +9,9 @@ authors:
 - A. Anjos
 - S. Marcel \textitet al.
 date: '2013-06-01'
-publishDate: '2023-12-14T17:25:07.259980Z'
+publishDate: '2023-12-14T17:43:56.267128Z'
 publication_types:
-- paper-conference
+- '1'
 publication: '*International Conference on Biometrics (ICB)*'
 doi: 10.1109/ICB.2013.6613026
 abstract: As a crucial security problem, anti-spoofing in biometrics, and particularly
@@ -28,4 +28,5 @@ tags:
 - Information Security
 - Digital Image Forensics
 url_pdf: files/publications/2013-Chingovska2013ICB.pdf
+featured: false
 ---

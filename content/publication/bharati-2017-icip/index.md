@@ -10,9 +10,9 @@ authors:
 - W. Scheirer
 - A. Rocha
 date: '2017-09-01'
-publishDate: '2023-12-14T17:25:07.305411Z'
+publishDate: '2023-12-14T17:43:56.930334Z'
 publication_types:
-- paper-conference
+- '1'
 publication: '*IEEE International Conference on Image Processing (ICIP)*'
 doi: 10.1109/ICIP.2017.8296535
 abstract: Deriving relationships between images and tracing back their history of
@@ -38,4 +38,5 @@ tags:
 - Multimedia Forensics
 - Image Phylogeny
 url_pdf: files/publications/2017-Bharati2017ICIP.pdf
+featured: false
 ---

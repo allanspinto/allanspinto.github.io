@@ -9,9 +9,9 @@ authors:
 - Rodolfo Azevedo
 - Siome Goldenstein
 date: '2020-07-01'
-publishDate: '2023-12-14T17:25:07.414149Z'
+publishDate: '2023-12-14T17:43:58.231215Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Sensors*'
 doi: 10.3390/s20133746
 abstract: Energy and storage restrictions are relevant variables that software applications
@@ -34,4 +34,5 @@ tags:
 - Energy Consumption
 - Image Processing
 url_pdf: files/publications/2020-Silva2020Sensors.pdf
+featured: false
 ---

@@ -10,9 +10,9 @@ authors:
 - Ricardo da Silva Torres
 - Aparecida Maria Catai
 date: '2023-03-01'
-publishDate: '2023-12-14T17:25:07.535952Z'
+publishDate: '2023-12-14T17:43:59.919773Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*PLOS ONE*'
 doi: 10.1371/journal.pone.0282398
 abstract: Cardiopulmonary exercise testing (CPET) is a non-invasive approach to measure
@@ -34,4 +34,5 @@ abstract: Cardiopulmonary exercise testing (CPET) is a non-invasive approach to 
 links:
 - name: URL
   url: https://doi.org/10.1371/journal.pone.0282398
+featured: false
 ---

@@ -6,9 +6,9 @@ authors:
 - W. Robson Schwartz
 - A. Rocha
 date: '2015-12-01'
-publishDate: '2023-12-14T17:25:07.282591Z'
+publishDate: '2023-12-14T17:43:56.571082Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*IEEE Transactions on Image Processing (T-IP)*'
 doi: 10.1109/TIP.2015.2466088
 abstract: Despite important recent advances, the vulnerability of biometric systems
@@ -36,4 +36,5 @@ tags:
 - Information Security
 - Digital Image Forensics
 url_pdf: files/publications/2015-Pinto2015TIP.pdf
+featured: false
 ---

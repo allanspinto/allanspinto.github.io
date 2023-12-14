@@ -13,9 +13,9 @@ authors:
 - R. d. S. Torres
 - H. Pedrini
 date: '2020-10-01'
-publishDate: '2023-12-14T17:25:07.434600Z'
+publishDate: '2023-12-14T17:43:58.577568Z'
 publication_types:
-- paper-conference
+- '1'
 publication: '*2020 IEEE International Conference on Image Processing (ICIP)*'
 abstract: Stereo vision is a growing topic in computer vision due to the innumerable
   opportunities and applications this technology offers for the development of modern
@@ -36,4 +36,5 @@ tags:
 - Segmentation
 - Object Detection
 url_pdf: files/publications/2020-Pinto2020ICIP.pdf
+featured: false
 ---

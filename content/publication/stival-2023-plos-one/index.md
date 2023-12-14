@@ -9,9 +9,9 @@ authors:
 - Ricardo da Silva Torres
 - Ulisses Dias
 date: '2023-01-01'
-publishDate: '2023-12-14T17:25:07.551229Z'
+publishDate: '2023-12-14T17:44:00.076977Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*PLOS ONE*'
 doi: 10.1371/journal.pone.0265372
 abstract: Sports sciences are increasingly data-intensive nowadays since computational
@@ -39,4 +39,5 @@ abstract: Sports sciences are increasingly data-intensive nowadays since computa
 links:
 - name: URL
   url: https://doi.org/10.1371/journal.pone.0265372
+featured: false
 ---

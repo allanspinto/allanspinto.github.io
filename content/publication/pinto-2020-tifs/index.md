@@ -9,9 +9,9 @@ authors:
 - H. Pedrini
 - A. Rocha
 date: '2020-04-01'
-publishDate: '2023-12-14T17:25:07.335932Z'
+publishDate: '2023-12-14T17:43:57.245307Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*IEEE Transactions on Information Forensics and Security*'
 doi: 10.1109/TIFS.2020.2988168
 abstract: Presentation attack detection is a challenging problem that aims at exposing
@@ -35,5 +35,5 @@ tags:
 - Information Security
 - Digital Image Forensics
 url_pdf: files/publications/2020-Pinto2020TIFS.pdf
-featured: true
+featured: false
 ---

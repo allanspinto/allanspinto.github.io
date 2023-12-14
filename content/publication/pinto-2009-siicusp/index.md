@@ -5,9 +5,9 @@ authors:
 - Allan da Silva Pinto
 - Jorge Luiz e Silva
 date: '2009-01-01'
-publishDate: '2023-12-14T17:25:07.421658Z'
+publishDate: '2023-12-14T17:43:58.423454Z'
 publication_types:
-- paper-conference
+- '1'
 publication: '*Simpósio Internacional de Iniciação Científica da USP (SIICUSP)*'
 tags:
 - Dataflow Architecture
@@ -15,4 +15,6 @@ tags:
 - VHDL
 - Reconfigurable Computing
 url_pdf: files/publications/2009-Pinto2009SIICUSP.pdf
+abstract: ''
+featured: false
 ---

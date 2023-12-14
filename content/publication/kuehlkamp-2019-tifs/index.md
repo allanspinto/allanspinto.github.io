@@ -8,9 +8,9 @@ authors:
 - K. W. Bowyer
 - A. Czajka
 date: '2019-06-01'
-publishDate: '2023-12-14T17:25:07.328480Z'
+publishDate: '2023-12-14T17:43:57.164187Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*IEEE Transactions on Information Forensics and Security*'
 doi: 10.1109/TIFS.2018.2878542
 abstract: The adoption of large-scale iris recognition systems around the world has
@@ -34,4 +34,5 @@ tags:
 - Information Security
 - Digital Image Forensics
 url_pdf: files/publications/2019-Kuehlkamp2019TIFS.pdf
+featured: false
 ---

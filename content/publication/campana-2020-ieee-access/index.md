@@ -9,9 +9,9 @@ authors:
 - J. S. Conceição
 - R. da Silva Torres
 date: '2020-04-01'
-publishDate: '2023-12-14T17:25:07.390317Z'
+publishDate: '2023-12-14T17:43:58.000095Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*IEEE Access*'
 doi: 10.1109/ACCESS.2020.2987869
 abstract: Hundreds of text detection methods have been proposed, motivated by their
@@ -34,4 +34,5 @@ tags:
 - Computer Vision
 - Mobile Devices
 url_pdf: files/publications/2020-Campana2020IEEEAccess.pdf
+featured: false
 ---

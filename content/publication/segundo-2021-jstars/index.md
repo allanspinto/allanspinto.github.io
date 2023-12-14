@@ -8,9 +8,9 @@ authors:
 - Ricardo da S. Torres
 - Sudeep Sarkar
 date: '2021-01-01'
-publishDate: '2023-12-14T17:25:07.457634Z'
+publishDate: '2023-12-14T17:43:58.968424Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*IEEE Journal of Selected Topics in Applied Earth Observations and Remote
   Sensing*'
 doi: 10.1109/JSTARS.2021.3094053
@@ -27,4 +27,5 @@ abstract: This work introduces a novel solution to measure economic activity thr
   into the RACE dashboard. This platform combines satellite data and artificial intelligence
   to promote a progressive and safe reopening of essential activities. Code, trained
   model, and data are available at https://github.com/maups/covid19-custom-script-contest
+featured: false
 ---

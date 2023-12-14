@@ -12,9 +12,9 @@ authors:
 - Adalberto Fazzio
 - Rubia F. Gouveia
 date: '2023-04-01'
-publishDate: '2023-12-14T17:25:07.528136Z'
+publishDate: '2023-12-14T17:43:59.741041Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Applied Physics Reviews*'
 doi: 10.1063/5.0129324
 abstract: X-ray computed microtomography (μCT) is an innovative and nondestructive
@@ -38,5 +38,17 @@ abstract: X-ray computed microtomography (μCT) is an innovative and nondestruct
 links:
 - name: URL
   url: https://doi.org/10.1063/5.0129324
-featured: true
+featured: false
+tags:
+- Data processing
+- Machine learning
+- Aerogel
+- Porous media
+- Biomaterials
+- Computational methods
+- Synchrotron radiation application
+- Computed tomography
+- X-ray computed microtomography
+- X-ray computed nanotomography
+- time-resolved x-ray computed tomography
 ---

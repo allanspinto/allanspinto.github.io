@@ -7,9 +7,9 @@ authors:
 - Ricardo da S. Torres
 - Sergio A. Cunha
 date: '2020-11-01'
-publishDate: '2023-12-14T17:25:07.350620Z'
+publishDate: '2023-12-14T17:43:57.513775Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*International Journal of Performance Analysis in Sport*'
 doi: 10.1080/24748668.2019.1694305
 abstract: The aim of this study was to identify the most relevant variables to characterise
@@ -31,4 +31,5 @@ tags:
 - Sports Sciences
 - Performance Analysis
 url_pdf: files/publications/2020-Almeida2020IJPAS.pdf
+featured: false
 ---

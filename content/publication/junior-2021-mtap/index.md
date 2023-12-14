@@ -9,9 +9,9 @@ authors:
 - Sergio Augusto Cunha
 - Ricardo da Silva Torres
 date: '2021-12-01'
-publishDate: '2023-12-14T17:25:07.472564Z'
+publishDate: '2023-12-14T17:43:59.123805Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Multimedia Tools and Applications*'
 doi: 10.1007/s11042-021-11784-1
 abstract: Recent advances in Computer Vision and Machine Learning empowered the use
@@ -35,4 +35,5 @@ abstract: Recent advances in Computer Vision and Machine Learning empowered the 
 links:
 - name: URL
   url: https://doi.org/10.1007/s11042-021-11784-1
+featured: false
 ---

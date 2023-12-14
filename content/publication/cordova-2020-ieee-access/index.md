@@ -6,9 +6,9 @@ authors:
 - H. Pedrini
 - R. d. S. Torres
 date: '2020-12-01'
-publishDate: '2023-12-14T17:25:07.442079Z'
+publishDate: '2023-12-14T17:43:58.658063Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*IEEE Access*'
 doi: 10.1109/ACCESS.2020.3043813
 abstract: Scene text detection has become an important field in the computer vision
@@ -36,4 +36,5 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1109/ACCESS.2020.3043813
+featured: false
 ---

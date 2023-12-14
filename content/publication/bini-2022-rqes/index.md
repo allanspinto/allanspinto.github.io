@@ -7,9 +7,9 @@ authors:
 - Allan Pinto
 - Felipe Moura
 date: '2022-05-01'
-publishDate: '2023-12-14T17:25:07.512031Z'
+publishDate: '2023-12-14T17:43:59.585022Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Research Quarterly for Exercise and Sport*'
 doi: 10.1080/02701367.2022.2070103
 abstract: ' ABSTRACTPurpose: With the increased access to neural networks trained
@@ -32,4 +32,5 @@ abstract: ' ABSTRACTPurpose: With the increased access to neural networks traine
 links:
 - name: URL
   url: https://doi.org/10.1080/02701367.2022.2070103
+featured: false
 ---

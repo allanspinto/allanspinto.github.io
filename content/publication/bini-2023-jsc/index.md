@@ -7,9 +7,9 @@ authors:
 - Allan Pinto
 - Felipe Moura
 date: '2023-01-01'
-publishDate: '2023-12-14T17:25:07.543552Z'
+publishDate: '2023-12-14T17:44:00.000319Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Journal of Sports Sciences*'
 doi: 10.1080/02640414.2023.2194725
 abstract: 'The use of marker-less methods to automatically obtain kinematics of movement
@@ -31,4 +31,5 @@ abstract: 'The use of marker-less methods to automatically obtain kinematics of 
 links:
 - name: URL
   url: https://doi.org/10.1080/02640414.2023.2194725
+featured: false
 ---

@@ -11,9 +11,9 @@ authors:
 - Pedro Paulo Menezes Scariot
 - Claudio Alexandre Gobatto
 date: '2022-01-01'
-publishDate: '2023-12-14T17:25:07.488059Z'
+publishDate: '2023-12-14T17:43:59.280746Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Scientific Reports*'
 doi: 10.1038/s41598-022-04823-w
 abstract: This study investigated the 30-days altitude training (2500 m, LHTH-live
@@ -39,4 +39,5 @@ abstract: This study investigated the 30-days altitude training (2500 m, LHTH-l
 links:
 - name: URL
   url: https://doi.org/10.1038/s41598-022-04823-w
+featured: false
 ---

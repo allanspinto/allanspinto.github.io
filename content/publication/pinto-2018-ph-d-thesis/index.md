@@ -4,9 +4,9 @@ title: Analysis of intrinsic and extrinsic properties of biometric samples for p
 authors:
 - Allan Pinto
 date: '2018-09-01'
-publishDate: '2023-12-14T17:25:07.405522Z'
+publishDate: '2023-12-14T17:43:58.153181Z'
 publication_types:
-- thesis
+- '7'
 abstract: 'Recent advances in biometrics, information forensics, and security have
   improved the recognition effectiveness of biometric systems. However, an ever-growing
   challenge is the vulnerability of such systems against presentation attacks, in
@@ -53,4 +53,6 @@ tags:
 - Information Security
 - Digital Image Forensics
 url_pdf: files/publications/2018-Pinto2018PhDThesis.pdf
+featured: false
+publication: ''
 ---

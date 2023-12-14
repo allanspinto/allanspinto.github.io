@@ -9,9 +9,9 @@ authors:
 - Kevin W. Bowyer
 - Anderson Rocha
 date: '2018-03-01'
-publishDate: '2023-12-14T17:25:07.312903Z'
+publishDate: '2023-12-14T17:43:57.007884Z'
 publication_types:
-- chapter
+- '6'
 publication: '*CRC Press*'
 abstract: 'This chapter explores data-driven approaches to presentation attack detection
   for three biometric modalities: face, iris, and fingerprint. The primary aim of
@@ -39,4 +39,5 @@ tags:
 - Information Security
 - Digital Image Forensics
 url_pdf: files/publications/2018-Pinto2018CRCPress.pdf
+featured: false
 ---

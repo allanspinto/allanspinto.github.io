@@ -8,9 +8,9 @@ authors:
 - G. R. Pinheiro
 - ' A.Rocha'
 date: '2012-01-01'
-publishDate: '2023-12-14T17:25:07.343538Z'
+publishDate: '2023-12-14T17:43:57.427428Z'
 publication_types:
-- chapter
+- '6'
 publication: '*Anais da VII Escola Regional de InformÃ¡tica de Minas Gerais. 1ed.Juiz
   de Fora:*'
 abstract: An astonishing number of digital documents, such as digital pictures, videos,
@@ -26,4 +26,5 @@ tags:
 - Multimedia Forensics
 - Information Security
 url_pdf: files/publications/2012-Carvalho2012ERI.pdf
+featured: false
 ---

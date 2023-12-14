@@ -12,9 +12,9 @@ authors:
 - Allan Silva Pinto
 - Claudio Alexandre Gobatto
 date: '2022-06-01'
-publishDate: '2023-12-14T17:25:07.519647Z'
+publishDate: '2023-12-14T17:43:59.663538Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Biology*'
 doi: 10.3390/biology11070963
 abstract: 'Although several studies have focused on the adaptations provided by inspiratory
@@ -48,4 +48,5 @@ abstract: 'Although several studies have focused on the adaptations provided by 
 links:
 - name: URL
   url: https://www.mdpi.com/2079-7737/11/7/963
+featured: false
 ---

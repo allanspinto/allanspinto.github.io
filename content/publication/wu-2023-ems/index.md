@@ -12,9 +12,9 @@ authors:
 - Ricardo da Silva Torres
 - Annik Magerholm Fet
 date: '2023-11-01'
-publishDate: '2023-12-14T17:25:07.566625Z'
+publishDate: '2023-12-14T17:44:00.234762Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Environmental Modelling & Software*'
 doi: https://doi.org/10.1016/j.envsoft.2023.105784
 abstract: Marine plastic pollution has in recent decades become ubiquitous, posing
@@ -44,4 +44,5 @@ tags:
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S1364815223001706
+featured: false
 ---

@@ -6,9 +6,9 @@ authors:
 - H. Pedrini
 - A. de Rezende Rocha
 date: '2015-05-01'
-publishDate: '2023-12-14T17:25:07.274999Z'
+publishDate: '2023-12-14T17:43:56.491705Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*IEEE Transactions on Information Forensics and Security (T-IFS)*'
 doi: 10.1109/TIFS.2015.2395139
 abstract: Spoofing attacks or impersonation can be easily accomplished in a facial
@@ -37,4 +37,5 @@ tags:
 - Information Security
 - Digital Image Forensics
 url_pdf: files/publications/2015-Pinto2015TIFS.pdf
+featured: false
 ---
