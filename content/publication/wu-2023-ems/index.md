@@ -25,7 +25,7 @@ tags:
 - User study
 categories: []
 date: '2023-11-01'
-lastmod: 2023-12-14T14:57:25-03:00
+lastmod: 2023-12-14T15:50:21-03:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T17:57:25.504381Z'
+publishDate: '2023-12-14T18:50:21.660560Z'
 publication_types:
 - '2'
 abstract: Marine plastic pollution has in recent decades become ubiquitous, posing

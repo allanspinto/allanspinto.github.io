@@ -22,7 +22,7 @@ tags:
 - Mobile Devices
 categories: []
 date: '2019-08-01'
-lastmod: 2023-12-14T14:57:23-03:00
+lastmod: 2023-12-14T15:50:19-03:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T17:57:23.399526Z'
+publishDate: '2023-12-14T18:50:19.804858Z'
 publication_types:
 - '1'
 abstract: 'LocalizaÃ§Ã£o e Reconhecimento de texto em cena Ã© um tÃ³pico em visÃ£o

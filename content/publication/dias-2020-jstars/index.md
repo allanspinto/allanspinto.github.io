@@ -17,7 +17,7 @@ tags:
 - Fusion Information
 categories: []
 date: '2020-07-01'
-lastmod: 2023-12-14T14:57:23-03:00
+lastmod: 2023-12-14T15:50:19-03:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T17:57:23.051407Z'
+publishDate: '2023-12-14T18:50:19.471755Z'
 publication_types:
 - '2'
 abstract: This article addresses the pixelwise classification problem based on temporal

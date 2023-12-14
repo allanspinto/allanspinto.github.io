@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2022-10-01'
-lastmod: 2023-12-14T14:57:25-03:00
+lastmod: 2023-12-14T15:50:21-03:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T17:57:25.421874Z'
+publishDate: '2023-12-14T18:50:21.577904Z'
 publication_types:
 - '2'
 abstract: Introduction Usually, the players’ or teams’ efficiency to perform passes

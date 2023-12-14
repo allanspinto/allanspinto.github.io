@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2023-12-14T14:57:24-03:00
+lastmod: 2023-12-14T15:50:20-03:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T17:57:24.419348Z'
+publishDate: '2023-12-14T18:50:20.738229Z'
 publication_types:
 - '2'
 abstract: Pollution in the form of litter in the natural environment is one of the

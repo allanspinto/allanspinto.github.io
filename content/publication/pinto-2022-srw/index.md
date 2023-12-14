@@ -20,11 +20,11 @@ tags:
 - Machine Learning
 - Scientific Visualization
 - Deep Learning
-- Synchrotron radiation application
-- X-ray computed tomography
+- Synchrotron Radiation Application
+- X-ray Computed Tomography
 categories: []
 date: '2022-07-01'
-lastmod: 2023-12-14T14:57:24-03:00
+lastmod: 2023-12-14T15:50:21-03:00
 featured: true
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T17:57:24.660735Z'
+publishDate: '2023-12-14T18:50:20.980995Z'
 publication_types:
 - '2'
 abstract: Recent advances in machine learning and scientific visualization have revolutionized

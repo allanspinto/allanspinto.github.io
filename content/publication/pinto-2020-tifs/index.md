@@ -20,7 +20,7 @@ tags:
 - Digital Image Forensics
 categories: []
 date: '2020-04-01'
-lastmod: 2023-12-14T14:57:22-03:00
+lastmod: 2023-12-14T15:50:19-03:00
 featured: true
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T17:57:22.699804Z'
+publishDate: '2023-12-14T18:50:19.135533Z'
 publication_types:
 - '2'
 abstract: Presentation attack detection is a challenging problem that aims at exposing

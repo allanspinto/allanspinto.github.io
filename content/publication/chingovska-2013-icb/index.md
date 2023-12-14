@@ -20,7 +20,7 @@ tags:
 - Digital Image Forensics
 categories: []
 date: '2013-06-01'
-lastmod: 2023-12-14T14:57:21-03:00
+lastmod: 2023-12-14T15:50:18-03:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T17:57:21.840248Z'
+publishDate: '2023-12-14T18:50:18.293447Z'
 publication_types:
 - '1'
 abstract: As a crucial security problem, anti-spoofing in biometrics, and particularly

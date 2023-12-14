@@ -22,7 +22,7 @@ tags:
 - Mobile Devices
 categories: []
 date: '2020-01-01'
-lastmod: 2023-12-14T14:57:23-03:00
+lastmod: 2023-12-14T15:50:19-03:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T17:57:23.216286Z'
+publishDate: '2023-12-14T18:50:19.638654Z'
 publication_types:
 - '1'
 abstract: Multiple research initiatives have been reported to yield highly effective

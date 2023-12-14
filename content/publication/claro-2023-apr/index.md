@@ -22,14 +22,14 @@ tags:
 - Porous media
 - Biomaterials
 - Computational methods
-- Synchrotron radiation application
-- X-ray computed tomography
-- X-ray computed microtomography
-- X-ray computed nanotomography
-- time-resolved x-ray computed tomography
+- Synchrotron Radiation Application
+- X-ray Computed Tomography
+- X-ray Computed Microtomography
+- X-ray Computed Nanotomography
+- Time-resolved X-ray Computed Tomography
 categories: []
 date: '2023-04-01'
-lastmod: 2023-12-14T14:57:25-03:00
+lastmod: 2023-12-14T15:50:21-03:00
 featured: true
 draft: false
 
@@ -47,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T17:57:24.989375Z'
+publishDate: '2023-12-14T18:50:21.243929Z'
 publication_types:
 - '2'
 abstract: X-ray computed microtomography (μCT) is an innovative and nondestructive
