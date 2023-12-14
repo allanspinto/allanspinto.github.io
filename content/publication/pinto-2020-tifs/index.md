@@ -35,4 +35,5 @@ tags:
 - Information Security
 - Digital Image Forensics
 url_pdf: files/publications/2020-Pinto2020TIFS.pdf
+featured: true
 ---

@@ -38,4 +38,5 @@ abstract: X-ray computed microtomography (μCT) is an innovative and nondestruct
 links:
 - name: URL
   url: https://doi.org/10.1063/5.0129324
+featured: true
 ---
