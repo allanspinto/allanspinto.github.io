@@ -12,7 +12,7 @@ authors:
 - Allan Silva Pinto
 - Claudio Alexandre Gobatto
 date: '2022-06-01'
-publishDate: '2023-12-14T16:43:49.973221Z'
+publishDate: '2023-12-14T17:25:07.519647Z'
 publication_types:
 - article-journal
 publication: '*Biology*'

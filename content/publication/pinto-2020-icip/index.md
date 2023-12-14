@@ -13,7 +13,7 @@ authors:
 - R. d. S. Torres
 - H. Pedrini
 date: '2020-10-01'
-publishDate: '2023-12-14T16:43:49.872338Z'
+publishDate: '2023-12-14T17:25:07.434600Z'
 publication_types:
 - paper-conference
 publication: '*2020 IEEE International Conference on Image Processing (ICIP)*'

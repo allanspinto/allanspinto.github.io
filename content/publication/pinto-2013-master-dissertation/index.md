@@ -3,7 +3,7 @@ title: A countermeasure method for video-based face spoofing attacks
 authors:
 - Allan Pinto
 date: '2013-10-01'
-publishDate: '2023-12-14T16:43:49.866190Z'
+publishDate: '2023-12-14T17:25:07.428251Z'
 publication_types:
 - thesis
 tags:

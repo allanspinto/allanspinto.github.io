@@ -9,7 +9,7 @@ authors:
 - Ricardo Da Silva Torres
 - Sergio Augusto Cunha
 date: '2022-10-01'
-publishDate: '2023-12-14T16:43:50.012105Z'
+publishDate: '2023-12-14T17:25:07.559075Z'
 publication_types:
 - article-journal
 publication: '*Science and Medicine in Football*'
@@ -33,5 +33,5 @@ abstract: Introduction Usually, the players’ or teams’ efficiency to perform
   in future research.
 links:
 - name: URL
-  url: '  https://doi.org/10.1080/24733938.2021.1986227   '
+  url: https://doi.org/10.1080/24733938.2021.1986227
 ---

@@ -6,7 +6,7 @@ authors:
 - H. Pedrini
 - R. d. S. Torres
 date: '2020-12-01'
-publishDate: '2023-12-14T16:43:49.879729Z'
+publishDate: '2023-12-14T17:25:07.442079Z'
 publication_types:
 - article-journal
 publication: '*IEEE Access*'

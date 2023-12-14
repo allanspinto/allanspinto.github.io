@@ -6,7 +6,7 @@ authors:
 - H. Pedrini
 - A. de Rezende Rocha
 date: '2015-05-01'
-publishDate: '2023-12-14T16:43:49.718880Z'
+publishDate: '2023-12-14T17:25:07.274999Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Information Forensics and Security (T-IFS)*'

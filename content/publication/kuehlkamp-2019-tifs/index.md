@@ -8,7 +8,7 @@ authors:
 - K. W. Bowyer
 - A. Czajka
 date: '2019-06-01'
-publishDate: '2023-12-14T16:43:49.771150Z'
+publishDate: '2023-12-14T17:25:07.328480Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Information Forensics and Security*'

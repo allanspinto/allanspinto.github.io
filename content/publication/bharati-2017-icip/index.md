@@ -10,7 +10,7 @@ authors:
 - W. Scheirer
 - A. Rocha
 date: '2017-09-01'
-publishDate: '2023-12-14T16:43:49.748771Z'
+publishDate: '2023-12-14T17:25:07.305411Z'
 publication_types:
 - paper-conference
 publication: '*IEEE International Conference on Image Processing (ICIP)*'

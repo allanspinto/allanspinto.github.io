@@ -5,7 +5,7 @@ authors:
 - Allan da Silva Pinto
 - Jorge Luiz e Silva
 date: '2009-01-01'
-publishDate: '2023-12-14T16:43:49.859770Z'
+publishDate: '2023-12-14T17:25:07.421658Z'
 publication_types:
 - paper-conference
 publication: '*Simpósio Internacional de Iniciação Científica da USP (SIICUSP)*'

@@ -9,7 +9,7 @@ authors:
 - Ricardo da Silva Torres
 - Ulisses Dias
 date: '2023-01-01'
-publishDate: '2023-12-14T16:43:50.004399Z'
+publishDate: '2023-12-14T17:25:07.551229Z'
 publication_types:
 - article-journal
 publication: '*PLOS ONE*'

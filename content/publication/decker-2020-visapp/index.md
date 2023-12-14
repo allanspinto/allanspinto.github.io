@@ -11,7 +11,7 @@ authors:
 - Lin Tzy Li.
 - Ricardo da S. Torres.
 date: '2020-01-01'
-publishDate: '2023-12-14T16:43:49.822290Z'
+publishDate: '2023-12-14T17:25:07.382711Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 15th International Joint Conference on Computer

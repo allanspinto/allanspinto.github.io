@@ -9,7 +9,7 @@ authors:
 - A. Xavier Falcao
 - A. Rocha
 date: '2015-04-01'
-publishDate: '2023-12-14T16:43:49.711256Z'
+publishDate: '2023-12-14T17:25:07.267259Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Information Forensics and Security (T-IFS)*'

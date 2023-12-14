@@ -11,7 +11,7 @@ authors:
 - H. Pedrini
 - R. da S. Torres
 date: '2019-12-01'
-publishDate: '2023-12-14T16:43:49.814838Z'
+publishDate: '2023-12-14T17:25:07.374719Z'
 publication_types:
 - paper-conference
 publication: '*2019 18th IEEE International Conference On Machine Learning And Applications
