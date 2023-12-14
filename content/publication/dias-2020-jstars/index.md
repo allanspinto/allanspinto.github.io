@@ -1,5 +1,9 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: A Multirepresentational Fusion of Time Series for Pixelwise Classification
+subtitle: ''
+summary: ''
 authors:
 - D. Dias
 - A. Pinto
@@ -7,13 +11,33 @@ authors:
 - R. Lamparelli
 - G. Le Maire
 - R. d. S. Torres
+tags:
+- Remote Sensing
+- Machine Learning
+- Fusion Information
+categories: []
 date: '2020-07-01'
-publishDate: '2023-12-14T17:43:57.670915Z'
+lastmod: 2023-12-14T14:57:23-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:23.051407Z'
 publication_types:
 - '2'
-publication: '*IEEE Journal of Selected Topics in Applied Earth Observations and Remote
-  Sensing*'
-doi: 10.1109/JSTARS.2020.3012117
 abstract: This article addresses the pixelwise classification problem based on temporal
   profiles, which are encoded in 2-D representations based on recurrence plots, Gramian
   angular/ difference fields, and Markov transition field. We propose a multirepresentational
@@ -23,10 +47,8 @@ abstract: This article addresses the pixelwise classification problem based on t
   plantations in remote sensing images. Achieved results demonstrate that our proposal
   overcomes recently proposed baselines, and now represents the new state-of-the-art
   classification solution for the target dataset.
-tags:
-- Remote Sensing
-- Machine Learning
-- Fusion Information
+publication: '*IEEE Journal of Selected Topics in Applied Earth Observations and Remote
+  Sensing*'
+doi: 10.1109/JSTARS.2020.3012117
 url_pdf: files/publications/2020-Dias2020JSTARS.pdf
-featured: false
 ---

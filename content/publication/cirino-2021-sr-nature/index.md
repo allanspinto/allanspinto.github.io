@@ -1,6 +1,10 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Complex network model indicates a positive effect of inspiratory muscles pre-activation
   on performance parameters in a judo match
+subtitle: ''
+summary: ''
 authors:
 - Carolina Cirino
 - Claudio A. Gobatto
@@ -10,12 +14,30 @@ authors:
 - Paulo H. S. M. Azevedo
 - Marlene A. Moreno
 - Fúlvia B. Manchado-Gobatto
+tags: []
+categories: []
 date: '2021-05-01'
-publishDate: '2023-12-14T17:43:58.735300Z'
+lastmod: 2023-12-14T14:57:24-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:24.053399Z'
 publication_types:
 - '2'
-publication: '*Scientific Reports*'
-doi: 10.1038/s41598-021-90394-1
 abstract: 'This study investigated the effects of inspiratory muscle pre-activation
   (IMPA) on the interactions among the technical-tactical, physical, physiological,
   and psychophysiological parameters in a simulated judo match, based on the centrality
@@ -34,8 +56,9 @@ abstract: 'This study investigated the effects of inspiratory muscle pre-activat
   the interactions among the psychophysiological, physical, and physiological parameters.
   Our results suggest the positive effects of the IMPA, indicating this strategy to
   prepare the organism (IMPA15) and to improve performance (IMPA40) in judo match.'
+publication: '*Scientific Reports*'
+doi: 10.1038/s41598-021-90394-1
 links:
 - name: URL
   url: https://doi.org/10.1038/s41598-021-90394-1
-featured: false
 ---

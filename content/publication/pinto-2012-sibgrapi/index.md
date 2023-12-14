@@ -1,16 +1,43 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Video-Based Face Spoofing Detection through Visual Rhythm Analysis
+subtitle: ''
+summary: ''
 authors:
 - A. da Silva Pinto
 - H. Pedrini
 - W. Schwartz
 - A. Rocha
+tags:
+- Biometrics
+- Face Recognition
+- Presentation Attack Detection
+- Information Security
+- Digital Image Forensics
+categories: []
 date: '2012-08-01'
-publishDate: '2023-12-14T17:43:56.188856Z'
+lastmod: 2023-12-14T14:57:21-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:21.755915Z'
 publication_types:
 - '1'
-publication: '*25th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)*'
-doi: 10.1109/SIBGRAPI.2012.38
 abstract: Recent advances on biometrics, information forensics, and security have
   improved the accuracy of biometric systems, mainly those based on facial information.
   However, an ever-growing challenge is the vulnerability of such systems to impostor
@@ -26,12 +53,7 @@ abstract: Recent advances on biometrics, information forensics, and security hav
   of the gray-level co-occurrence matrices, used as feature descriptors. Results show
   the effectiveness of the proposed approach to distinguish between valid and fake
   users for video-based spoofing with near-perfect classification results.
-tags:
-- Biometrics
-- Face Recognition
-- Presentation Attack Detection
-- Information Security
-- Digital Image Forensics
+publication: '*25th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)*'
+doi: 10.1109/SIBGRAPI.2012.38
 url_pdf: files/publications/2012-Pinto2012SIBGRAPI.pdf
-featured: false
 ---

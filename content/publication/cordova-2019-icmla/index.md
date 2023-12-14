@@ -1,6 +1,10 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: 'Pelee-Text: A Tiny Convolutional Neural Network for Multi-oriented Scene Text
   Detection'
+subtitle: ''
+summary: ''
 authors:
 - M. A. Córdova
 - L. G. L. Decker
@@ -10,13 +14,35 @@ authors:
 - A. Pinto
 - H. Pedrini
 - R. da S. Torres
+tags:
+- Text Localization
+- Text Recognition
+- Machine Learning
+- Computer Vision
+- Mobile Devices
+categories: []
 date: '2019-12-01'
-publishDate: '2023-12-14T17:43:57.751605Z'
+lastmod: 2023-12-14T14:57:23-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:23.135677Z'
 publication_types:
 - '1'
-publication: '*2019 18th IEEE International Conference On Machine Learning And Applications
-  ( ICMLA)*'
-doi: 10.1109/ICMLA.2019.00075
 abstract: Nowadays, scene text detection has received a lot of attention due to its
   complexity given variations in terms of orientations, font size, aspect ratio, and
   natural backgrounds. In this vein, several deep neural networks have been proposed
@@ -30,12 +56,8 @@ abstract: Nowadays, scene text detection has received a lot of attention due to 
   respectively. Moreover, in terms of F-measure, our method achieved competitive results
   on four well-known datasets, i.e., ICDAR'2011 (90.96%), ICDAR'2013 (85.24%), ICDAR'2015
   (80.08%), and MSRA-TD500 (80.90%).
-tags:
-- Text Localization
-- Text Recognition
-- Machine Learning
-- Computer Vision
-- Mobile Devices
+publication: '*2019 18th IEEE International Conference On Machine Learning And Applications
+  ( ICMLA)*'
+doi: 10.1109/ICMLA.2019.00075
 url_pdf: files/publications/2019-Cordova2019ICMLA.pdf
-featured: false
 ---

@@ -1,18 +1,40 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: 'Characterization and analyses of dribbling actions in soccer: a novel definition
   and effectiveness of dribbles in the 2018 FIFA World Cup RussiaTM'
+subtitle: ''
+summary: ''
 authors:
 - Kleber Leal
 - Allan Pinto
 - Ricardo Torres
 - Marije Elferink-Gemser
 - Sergio Cunha
+tags: []
+categories: []
 date: '2022-01-01'
-publishDate: '2023-12-14T17:43:59.045467Z'
+lastmod: 2023-12-14T14:57:24-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:24.221397Z'
 publication_types:
 - '2'
-publication: '*Human Movement*'
-doi: 10.5114/hm.2021.104182
 abstract: Dribbling is a meaningful skill in soccer, due to its effectiveness to create
   opportunities for scoring. Several studies analyzed dribbling actions from different
   perspectives, including among others, the development of talented players. Despite
@@ -35,8 +57,9 @@ abstract: Dribbling is a meaningful skill in soccer, due to its effectiveness to
   of dribbling actions considering the number of dribbles per 90 minutes played and
   success rate distributions for different national teams and their respective players
   that participated of the 2018 FIFA World Cup Russia™.
+publication: '*Human Movement*'
+doi: 10.5114/hm.2021.104182
 links:
 - name: URL
   url: http://dx.doi.org/10.5114/hm.2021.104182
-featured: false
 ---

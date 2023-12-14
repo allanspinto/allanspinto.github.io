@@ -1,5 +1,9 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: 'Litter Detection with Deep Learning: A Comparative Study'
+subtitle: ''
+summary: ''
 authors:
 - Manuel Córdova
 - Allan Pinto
@@ -8,12 +12,30 @@ authors:
 - Ibrahim A. Hameed
 - Helio Pedrini
 - Ricardo da S. Torres
+tags: []
+categories: []
 date: '2022-01-01'
-publishDate: '2023-12-14T17:43:59.202033Z'
+lastmod: 2023-12-14T14:57:24-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:24.419348Z'
 publication_types:
 - '2'
-publication: '*Sensors*'
-doi: 10.3390/s22020548
 abstract: Pollution in the form of litter in the natural environment is one of the
   great challenges of our times. Automated litter detection can help assess waste
   occurrences in the environment. Different machine learning solutions have been explored
@@ -31,8 +53,9 @@ abstract: Pollution in the form of litter in the natural environment is one of t
   on the YOLO family are promising for the construction of litter detection solutions,
   with superior performance in terms of detection accuracy, processing time, and memory
   footprint.
+publication: '*Sensors*'
+doi: 10.3390/s22020548
 links:
 - name: URL
   url: https://www.mdpi.com/1424-8220/22/2/548
-featured: false
 ---

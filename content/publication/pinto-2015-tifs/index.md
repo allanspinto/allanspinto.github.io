@@ -1,16 +1,43 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Using Visual Rhythms for Detecting Video-Based Facial Spoof Attacks
+subtitle: ''
+summary: ''
 authors:
 - A. Pinto
 - W. Robson Schwartz
 - H. Pedrini
 - A. de Rezende Rocha
+tags:
+- Biometrics
+- Face Recognition
+- Presentation Attack Detection
+- Information Security
+- Digital Image Forensics
+categories: []
 date: '2015-05-01'
-publishDate: '2023-12-14T17:43:56.491705Z'
+lastmod: 2023-12-14T14:57:22-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:22.002426Z'
 publication_types:
 - '2'
-publication: '*IEEE Transactions on Information Forensics and Security (T-IFS)*'
-doi: 10.1109/TIFS.2015.2395139
 abstract: Spoofing attacks or impersonation can be easily accomplished in a facial
   biometric system wherein users without access privileges attempt to authenticate
   themselves as valid users, in which an impostor needs only a photograph or a video
@@ -30,12 +57,7 @@ abstract: Spoofing attacks or impersonation can be easily accomplished in a faci
   comprises 17 076 videos composed of real access and spoofing attack videos. In addition,
   we evaluate the proposed method using the replay-attack database, which contains
   photo-based and video-based face spoofing attacks.
-tags:
-- Biometrics
-- Face Recognition
-- Presentation Attack Detection
-- Information Security
-- Digital Image Forensics
+publication: '*IEEE Transactions on Information Forensics and Security (T-IFS)*'
+doi: 10.1109/TIFS.2015.2395139
 url_pdf: files/publications/2015-Pinto2015TIFS.pdf
-featured: false
 ---

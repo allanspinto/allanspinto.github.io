@@ -1,6 +1,10 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: 'Classification and determinants of passing difficulty in soccer: a multivariate
   approach'
+subtitle: ''
+summary: ''
 authors:
 - Murilo Merlin
 - Allan Pinto
@@ -8,12 +12,30 @@ authors:
 - Felipe A Moura
 - Ricardo Da Silva Torres
 - Sergio Augusto Cunha
+tags: []
+categories: []
 date: '2022-10-01'
-publishDate: '2023-12-14T17:44:00.156095Z'
+lastmod: 2023-12-14T14:57:25-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:25.421874Z'
 publication_types:
 - '2'
-publication: '*Science and Medicine in Football*'
-doi: 10.1080/24733938.2021.1986227
 abstract: Introduction Usually, the players’ or teams’ efficiency to perform passes
   is measured in terms of accuracy. The degree of difficulty of this action has been
   overlooked in the literature.Objectives The present study aimed to classify the
@@ -31,8 +53,9 @@ abstract: Introduction Usually, the players’ or teams’ efficiency to perform
   identification context.Practical Implications The values found for each variable
   can be used as a reference for planning training, such as small side games, and
   in future research.
+publication: '*Science and Medicine in Football*'
+doi: 10.1080/24733938.2021.1986227
 links:
 - name: URL
   url: https://doi.org/10.1080/24733938.2021.1986227
-featured: false
 ---

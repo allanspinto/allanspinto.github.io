@@ -1,6 +1,10 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Leveraging Shape, Reflectance and Albedo From Shading for Face Presentation
   Attack Detection
+subtitle: ''
+summary: ''
 authors:
 - A. Pinto
 - S. Goldenstein
@@ -8,12 +12,35 @@ authors:
 - T. Carvalho
 - H. Pedrini
 - A. Rocha
+tags:
+- Biometrics
+- Face Recognition
+- Presentation Attack Detection
+- Information Security
+- Digital Image Forensics
+categories: []
 date: '2020-04-01'
-publishDate: '2023-12-14T17:43:57.245307Z'
+lastmod: 2023-12-14T14:57:22-03:00
+featured: true
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:22.699804Z'
 publication_types:
 - '2'
-publication: '*IEEE Transactions on Information Forensics and Security*'
-doi: 10.1109/TIFS.2020.2988168
 abstract: Presentation attack detection is a challenging problem that aims at exposing
   an impostor user seeking to deceive the authentication system. In facial biometrics
   systems, this kind of attack is performed using a photograph, video, or 3D mask
@@ -28,12 +55,7 @@ abstract: Presentation attack detection is a challenging problem that aims at ex
   of the proposed method considering several types of photo- and video-based presentation
   attacks, and in the cross-sensor scenario, besides achieving competitive results  for
   the inter-dataset evaluation protocol.
-tags:
-- Biometrics
-- Face Recognition
-- Presentation Attack Detection
-- Information Security
-- Digital Image Forensics
+publication: '*IEEE Transactions on Information Forensics and Security*'
+doi: 10.1109/TIFS.2020.2988168
 url_pdf: files/publications/2020-Pinto2020TIFS.pdf
-featured: false
 ---

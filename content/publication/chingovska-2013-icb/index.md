@@ -1,5 +1,9 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: The 2nd competition on counter measures to 2D face spoofing attacks
+subtitle: ''
+summary: ''
 authors:
 - I. Chingovska
 - A. Pinto
@@ -8,12 +12,35 @@ authors:
 - A. Rocha
 - A. Anjos
 - S. Marcel \textitet al.
+tags:
+- Biometrics
+- Face Recognition
+- Presentation Attack Detection
+- Information Security
+- Digital Image Forensics
+categories: []
 date: '2013-06-01'
-publishDate: '2023-12-14T17:43:56.267128Z'
+lastmod: 2023-12-14T14:57:21-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:21.840248Z'
 publication_types:
 - '1'
-publication: '*International Conference on Biometrics (ICB)*'
-doi: 10.1109/ICB.2013.6613026
 abstract: As a crucial security problem, anti-spoofing in biometrics, and particularly
   for the face modality, has achieved great progress in the recent years. Still, new
   threats arrive inform of better, more realistic and more sophisticated spoofing
@@ -21,12 +48,7 @@ abstract: As a crucial security problem, anti-spoofing in biometrics, and partic
   Attacks is to challenge researchers to create counter measures effectively detecting
   a variety of attacks. The submitted propositions are evaluated on the Replay-Attack
   database and the achieved results are presented in this paper.
-tags:
-- Biometrics
-- Face Recognition
-- Presentation Attack Detection
-- Information Security
-- Digital Image Forensics
+publication: '*International Conference on Biometrics (ICB)*'
+doi: 10.1109/ICB.2013.6613026
 url_pdf: files/publications/2013-Chingovska2013ICB.pdf
-featured: false
 ---

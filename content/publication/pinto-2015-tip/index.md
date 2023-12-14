@@ -1,16 +1,43 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Face Spoofing Detection Through Visual Codebooks of Spectral Temporal Cubes
+subtitle: ''
+summary: ''
 authors:
 - A. Pinto
 - H. Pedrini
 - W. Robson Schwartz
 - A. Rocha
+tags:
+- Biometrics
+- Face Recognition
+- Presentation Attack Detection
+- Information Security
+- Digital Image Forensics
+categories: []
 date: '2015-12-01'
-publishDate: '2023-12-14T17:43:56.571082Z'
+lastmod: 2023-12-14T14:57:22-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:22.083332Z'
 publication_types:
 - '2'
-publication: '*IEEE Transactions on Image Processing (T-IP)*'
-doi: 10.1109/TIP.2015.2466088
 abstract: Despite important recent advances, the vulnerability of biometric systems
   to spoofing attacks is still an open problem. Spoof attacks occur when impostor
   users present synthetic biometric samples of a valid user to the biometric system
@@ -29,12 +56,7 @@ abstract: Despite important recent advances, the vulnerability of biometric syst
   the low-level ones. The experimental results show the effectiveness of the proposed
   method for detecting different types of attacks in a variety of scenarios and data
   sets, including photos, videos, and 3D masks.
-tags:
-- Biometrics
-- Face Recognition
-- Presentation Attack Detection
-- Information Security
-- Digital Image Forensics
+publication: '*IEEE Transactions on Image Processing (T-IP)*'
+doi: 10.1109/TIP.2015.2466088
 url_pdf: files/publications/2015-Pinto2015TIP.pdf
-featured: false
 ---

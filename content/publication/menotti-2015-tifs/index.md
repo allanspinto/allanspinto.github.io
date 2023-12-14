@@ -1,5 +1,9 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Deep Representations for Iris, Face, and Fingerprint Spoofing Detection
+subtitle: ''
+summary: ''
 authors:
 - D. Menotti
 - G. Chiachia
@@ -8,12 +12,37 @@ authors:
 - H. Pedrini
 - A. Xavier Falcao
 - A. Rocha
+tags:
+- Biometrics
+- Face Recognition
+- Fingerprint Recognition
+- Iris Recognition
+- Presentation Attack Detection
+- Information Security
+- Digital Image Forensics
+categories: []
 date: '2015-04-01'
-publishDate: '2023-12-14T17:43:56.412937Z'
+lastmod: 2023-12-14T14:57:21-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:21.921627Z'
 publication_types:
 - '2'
-publication: '*IEEE Transactions on Information Forensics and Security (T-IFS)*'
-doi: 10.1109/TIFS.2015.2398817
 abstract: Biometrics systems have significantly improved person identification and
   authentication, playing an important role in personal, national, and global security.
   However, these systems might be deceived (or spoofed) and, despite the recent advances
@@ -32,14 +61,7 @@ abstract: Biometrics systems have significantly improved person identification a
   that spoofing detection systems based on convolutional networks can be robust to
   attacks already known and possibly adapted, with little effort, to image-based attacks
   that are yet to come.
-tags:
-- Biometrics
-- Face Recognition
-- Fingerprint Recognition
-- Iris Recognition
-- Presentation Attack Detection
-- Information Security
-- Digital Image Forensics
+publication: '*IEEE Transactions on Information Forensics and Security (T-IFS)*'
+doi: 10.1109/TIFS.2015.2398817
 url_pdf: files/publications/2015-Menotti2015TIFS.pdf
-featured: false
 ---

@@ -1,17 +1,39 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Criterion validity of neural networks to assess lower limb motion during cycling
+subtitle: ''
+summary: ''
 authors:
 - Rodrigo Rico Bini
 - Gil Serrancoli
 - Paulo Roberto Pereira Santiago
 - Allan Pinto
 - Felipe Moura
+tags: []
+categories: []
 date: '2023-01-01'
-publishDate: '2023-12-14T17:44:00.000319Z'
+lastmod: 2023-12-14T14:57:25-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:25.149366Z'
 publication_types:
 - '2'
-publication: '*Journal of Sports Sciences*'
-doi: 10.1080/02640414.2023.2194725
 abstract: 'The use of marker-less methods to automatically obtain kinematics of movement
   is expanding but validity to high-velocity tasks such as cycling with the presence
   of the bicycle on the field of view is needed when standard video footage is obtained.
@@ -28,8 +50,9 @@ abstract: 'The use of marker-less methods to automatically obtain kinematics of 
   for any of the joints. OpenPose presented stronger agreement with marker-tracking
   (criterion) than the MSRA for the hip and knee joints but resulted in poor agreement
   for the ankle joint. '
+publication: '*Journal of Sports Sciences*'
+doi: 10.1080/02640414.2023.2194725
 links:
 - name: URL
   url: https://doi.org/10.1080/02640414.2023.2194725
-featured: false
 ---

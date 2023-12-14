@@ -1,10 +1,40 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Analysis of intrinsic and extrinsic properties of biometric samples for presentation
   attack detection
+subtitle: ''
+summary: ''
 authors:
 - Allan Pinto
+tags:
+- Biometrics
+- Face Recognition
+- Fingerprint Recognition
+- Iris Recognition
+- Information Security
+- Digital Image Forensics
+categories: []
 date: '2018-09-01'
-publishDate: '2023-12-14T17:43:58.153181Z'
+lastmod: 2023-12-14T14:57:23-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:23.478729Z'
 publication_types:
 - '7'
 abstract: 'Recent advances in biometrics, information forensics, and security have
@@ -45,14 +75,6 @@ abstract: 'Recent advances in biometrics, information forensics, and security ha
   in this research the design of efficient neural networks with shallow architectures
   capable of learning characteristics related to our problem from small sets of data
   available to develop and evaluate PAD solutions.'
-tags:
-- Biometrics
-- Face Recognition
-- Fingerprint Recognition
-- Iris Recognition
-- Information Security
-- Digital Image Forensics
-url_pdf: files/publications/2018-Pinto2018PhDThesis.pdf
-featured: false
 publication: ''
+url_pdf: files/publications/2018-Pinto2018PhDThesis.pdf
 ---

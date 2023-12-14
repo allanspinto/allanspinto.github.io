@@ -1,6 +1,10 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Automatic Markerless Motion Detector Method against Traditional Digitisation
   for 3-Dimensional Movement Kinematic Analysis of Ball Kicking in Soccer Field Context
+subtitle: ''
+summary: ''
 authors:
 - Luiz H. Palucci Vieira
 - Paulo R. P. Santiago
@@ -8,12 +12,30 @@ authors:
 - Rodrigo Aquino
 - Ricardo da S. Torres
 - Fabio A. Barbieri
+tags: []
+categories: []
 date: '2022-01-01'
-publishDate: '2023-12-14T17:43:59.425207Z'
+lastmod: 2023-12-14T14:57:24-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:24.581785Z'
 publication_types:
 - '2'
-publication: '*International Journal of Environmental Research and Public Health*'
-doi: 10.3390/ijerph19031179
 abstract: Kicking is a fundamental skill in soccer that often contributes to match
   outcomes. Lower limb movement features (e.g., joint position and velocity) are determinants
   of kick performance. However, obtaining kicking kinematics under field conditions
@@ -38,8 +60,9 @@ abstract: Kicking is a fundamental skill in soccer that often contributes to mat
   Markerless motion tracking (OpenPose) can help to successfully obtain some lower
   limb position, velocity, and joint angular outputs during kicks performed in a naturally
   occurring environment.
+publication: '*International Journal of Environmental Research and Public Health*'
+doi: 10.3390/ijerph19031179
 links:
 - name: URL
   url: https://www.mdpi.com/1660-4601/19/3/1179
-featured: false
 ---

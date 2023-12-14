@@ -1,17 +1,39 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Validity of Neural Networks to Determine Body Position on the Bicycle
+subtitle: ''
+summary: ''
 authors:
 - Rodrigo Rico Bini
 - Gil Serrancoli
 - Paulo Roberto Pereira Santiago
 - Allan Pinto
 - Felipe Moura
+tags: []
+categories: []
 date: '2022-05-01'
-publishDate: '2023-12-14T17:43:59.585022Z'
+lastmod: 2023-12-14T14:57:24-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:24.743026Z'
 publication_types:
 - '2'
-publication: '*Research Quarterly for Exercise and Sport*'
-doi: 10.1080/02701367.2022.2070103
 abstract: ' ABSTRACTPurpose: With the increased access to neural networks trained
   to estimate body segments from images and videos, this study assessed the validity
   of some of these networks in enabling the assessment of body position on the bicycle.
@@ -29,8 +51,9 @@ abstract: ' ABSTRACTPurpose: With the increased access to neural networks traine
   OpenPose presented better accuracy than the MSRA method in determining body position
   on the bicycle, but both methods seem comparable in assessing implications from
   changes in bicycle configuration. '
+publication: '*Research Quarterly for Exercise and Sport*'
+doi: 10.1080/02701367.2022.2070103
 links:
 - name: URL
   url: https://doi.org/10.1080/02701367.2022.2070103
-featured: false
 ---

@@ -1,6 +1,10 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Complex networks analysis reinforces centrality hematological role on aerobic--anaerobic
   performances of the Brazilian Paralympic endurance team after altitude training
+subtitle: ''
+summary: ''
 authors:
 - Fabio Leandro Breda
 - Fúlvia Barros Manchado-Gobatto
@@ -10,12 +14,30 @@ authors:
 - Marcelo Papoti
 - Pedro Paulo Menezes Scariot
 - Claudio Alexandre Gobatto
+tags: []
+categories: []
 date: '2022-01-01'
-publishDate: '2023-12-14T17:43:59.280746Z'
+lastmod: 2023-12-14T14:57:24-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:24.501325Z'
 publication_types:
 - '2'
-publication: '*Scientific Reports*'
-doi: 10.1038/s41598-022-04823-w
 abstract: This study investigated the 30-days altitude training (2500 m, LHTH-live
   and training high) on hematological responses and aerobic--anaerobic performances
   parameters of high-level Paralympic athletes. Aerobic capacity was assessed by 3000 m
@@ -36,8 +58,9 @@ abstract: This study investigated the 30-days altitude training (2500 m, LHTH-l
   more prominent nodes for all centrality metrics. These results indicate that adaptive
   process from LHTH was highlighted by the complex networks, which can help understanding
   the better aerobic performance at low altitude after 16 days in Paralympic athletes.
+publication: '*Scientific Reports*'
+doi: 10.1038/s41598-022-04823-w
 links:
 - name: URL
   url: https://doi.org/10.1038/s41598-022-04823-w
-featured: false
 ---

@@ -1,6 +1,10 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: 'From micro- to nano- and time-resolved x-ray computed tomography: Bio-based
   applications, synchrotron capabilities, and data-driven processing'
+subtitle: ''
+summary: ''
 authors:
 - Pedro I. C. Claro
 - Egon P. B. S. Borges
@@ -11,12 +15,41 @@ authors:
 - Carlos E. Driemeier
 - Adalberto Fazzio
 - Rubia F. Gouveia
+tags:
+- Data processing
+- Machine learning
+- Aerogel
+- Porous media
+- Biomaterials
+- Computational methods
+- Synchrotron radiation application
+- X-ray computed tomography
+- X-ray computed microtomography
+- X-ray computed nanotomography
+- time-resolved x-ray computed tomography
+categories: []
 date: '2023-04-01'
-publishDate: '2023-12-14T17:43:59.741041Z'
+lastmod: 2023-12-14T14:57:25-03:00
+featured: true
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:24.989375Z'
 publication_types:
 - '2'
-publication: '*Applied Physics Reviews*'
-doi: 10.1063/5.0129324
 abstract: X-ray computed microtomography (μCT) is an innovative and nondestructive
   versatile technique that has been used extensively to investigate bio-based systems
   in multiple application areas. Emerging progress in this field has brought countless
@@ -35,20 +68,9 @@ abstract: X-ray computed microtomography (μCT) is an innovative and nondestruct
   data. We bring a recent overview on this topic to researchers and professionals
   working not only in this and related areas but also to readers starting their contact
   with x-ray CT techniques and deep learning.
+publication: '*Applied Physics Reviews*'
+doi: 10.1063/5.0129324
 links:
 - name: URL
   url: https://doi.org/10.1063/5.0129324
-featured: false
-tags:
-- Data processing
-- Machine learning
-- Aerogel
-- Porous media
-- Biomaterials
-- Computational methods
-- Synchrotron radiation application
-- Computed tomography
-- X-ray computed microtomography
-- X-ray computed nanotomography
-- time-resolved x-ray computed tomography
 ---

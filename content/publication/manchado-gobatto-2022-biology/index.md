@@ -1,7 +1,11 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Complex Network Model Reveals the Impact of Inspiratory Muscle Pre-Activation
   on Interactions among Physiological Responses and Muscle Oxygenation during Running
   and Passive Recovery
+subtitle: ''
+summary: ''
 authors:
 - Fúlvia Barros Manchado-Gobatto
 - Ricardo Silva Torres
@@ -11,12 +15,30 @@ authors:
 - Marlene Aparecida Moreno
 - Allan Silva Pinto
 - Claudio Alexandre Gobatto
+tags: []
+categories: []
 date: '2022-06-01'
-publishDate: '2023-12-14T17:43:59.663538Z'
+lastmod: 2023-12-14T14:57:24-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:24.910101Z'
 publication_types:
 - '2'
-publication: '*Biology*'
-doi: 10.3390/biology11070963
 abstract: 'Although several studies have focused on the adaptations provided by inspiratory
   muscle (IM) training on physical demands, the warm-up or pre-activation (PA) of
   these muscles alone appears to generate positive effects on physiological responses
@@ -45,8 +67,9 @@ abstract: 'Although several studies have focused on the adaptations provided by 
   application. Our results suggest that this respiratory strategy enhances exercise,
   recovery and the multidimensional approach to understanding the effects of physiological
   adjustments on these conditions.'
+publication: '*Biology*'
+doi: 10.3390/biology11070963
 links:
 - name: URL
   url: https://www.mdpi.com/2079-7737/11/7/963
-featured: false
 ---

@@ -1,5 +1,9 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Using machine learning pipeline to predict entry into the attack zone in football
+subtitle: ''
+summary: ''
 authors:
 - Leandro Stival
 - Allan Pinto
@@ -8,12 +12,30 @@ authors:
 - Henrik Biermann
 - Ricardo da Silva Torres
 - Ulisses Dias
+tags: []
+categories: []
 date: '2023-01-01'
-publishDate: '2023-12-14T17:44:00.076977Z'
+lastmod: 2023-12-14T14:57:25-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:25.229727Z'
 publication_types:
 - '2'
-publication: '*PLOS ONE*'
-doi: 10.1371/journal.pone.0265372
 abstract: Sports sciences are increasingly data-intensive nowadays since computational
   tools can extract information from large amounts of data and derive insights from
   athlete performances during the competition. This paper addresses a performance
@@ -36,8 +58,9 @@ abstract: Sports sciences are increasingly data-intensive nowadays since computa
   at the first five seconds. Finally, the explainability of our models reveals the
   main metrics along with its contributions for the final inference result, which
   corroborates other studies found in the literature for soccer match analysis.
+publication: '*PLOS ONE*'
+doi: 10.1371/journal.pone.0265372
 links:
 - name: URL
   url: https://doi.org/10.1371/journal.pone.0265372
-featured: false
 ---

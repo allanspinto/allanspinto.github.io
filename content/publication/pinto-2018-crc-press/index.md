@@ -1,5 +1,9 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Deep Learning in Biometrics
+subtitle: ''
+summary: ''
 authors:
 - Allan Pinto
 - Helio Pedrini
@@ -8,11 +12,37 @@ authors:
 - Adam Czajka
 - Kevin W. Bowyer
 - Anderson Rocha
+tags:
+- Biometrics
+- Face Recognition
+- Fingerprint Recognition
+- Iris Recognition
+- Presentation Attack Detection
+- Information Security
+- Digital Image Forensics
+categories: []
 date: '2018-03-01'
-publishDate: '2023-12-14T17:43:57.007884Z'
+lastmod: 2023-12-14T14:57:22-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:22.448148Z'
 publication_types:
 - '6'
-publication: '*CRC Press*'
 abstract: 'This chapter explores data-driven approaches to presentation attack detection
   for three biometric modalities: face, iris, and fingerprint. The primary aim of
   this chapter is to show how pretrained deep neural networks can be used to build
@@ -30,14 +60,6 @@ abstract: 'This chapter explores data-driven approaches to presentation attack d
   difficult. However, these models will perform worse if the properties of imitations
   being detected are unknown. This chapter also includes a current literature review
   summarizing up-to-date data-driven solutions to face, iris and finger liveness detection.'
-tags:
-- Biometrics
-- Face Recognition
-- Fingerprint Recognition
-- Iris Recognition
-- Presentation Attack Detection
-- Information Security
-- Digital Image Forensics
+publication: '*CRC Press*'
 url_pdf: files/publications/2018-Pinto2018CRCPress.pdf
-featured: false
 ---

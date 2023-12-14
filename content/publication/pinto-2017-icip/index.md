@@ -1,5 +1,9 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Provenance filtering for multimedia phylogeny
+subtitle: ''
+summary: ''
 authors:
 - A. Pinto
 - D. Moreira
@@ -9,12 +13,38 @@ authors:
 - P. Flynn
 - W. Scheirer
 - A. Rocha
+tags:
+- Graph Theory
+- Image Filtering
+- Image Retrieval
+- Social Networking
+- Image Provenance Analysis
+- Digital Image Forensics
+- Multimedia Forensics
+- Image Phylogeny
+categories: []
 date: '2017-09-01'
-publishDate: '2023-12-14T17:43:56.653480Z'
+lastmod: 2023-12-14T14:57:22-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:22.165753Z'
 publication_types:
 - '1'
-publication: '*IEEE International Conference on Image Processing (ICIP)*'
-doi: 10.1109/ICIP.2017.8296532
 abstract: Departing from traditional digital forensics modeling, which seeks to analyze
   single objects in isolation, multimedia phylogeny analyzes the evolutionary processes
   that influence digital objects and collections over time. One of its integral pieces
@@ -30,15 +60,7 @@ abstract: Departing from traditional digital forensics modeling, which seeks to 
   query image. Experimental results with a dataset containing more than a million
   images show that the two-tiered solution underpinned by the context of the query
   is highly useful for solving this difficult task.
-tags:
-- Graph Theory
-- Image Filtering
-- Image Retrieval
-- Social Networking
-- Image Provenance Analysis
-- Digital Image Forensics
-- Multimedia Forensics
-- Image Phylogeny
+publication: '*IEEE International Conference on Image Processing (ICIP)*'
+doi: 10.1109/ICIP.2017.8296532
 url_pdf: files/publications/2017-Pinto2017ICIP.pdf
-featured: false
 ---

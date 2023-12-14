@@ -1,17 +1,41 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Performance-level indicators of male elite handball teams
+subtitle: ''
+summary: ''
 authors:
 - Alexandre G. Almeida
 - Murilo Merlin
 - Allan Pinto
 - Ricardo da S. Torres
 - Sergio A. Cunha
+tags:
+- Sports Sciences
+- Performance Analysis
+categories: []
 date: '2020-11-01'
-publishDate: '2023-12-14T17:43:57.513775Z'
+lastmod: 2023-12-14T14:57:22-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:22.882205Z'
 publication_types:
 - '2'
-publication: '*International Journal of Performance Analysis in Sport*'
-doi: 10.1080/24748668.2019.1694305
 abstract: The aim of this study was to identify the most relevant variables to characterise
   the performance level of the teams through Men's World Championships (2007-2019).
   Forty-seven attributes from match-related statistics and characteristics of players
@@ -27,9 +51,7 @@ abstract: The aim of this study was to identify the most relevant variables to c
   in defence. These findings may guide scientists and sports trainers to select players,
   prescribe training procedures, analyse opponents and establish match strategies
   with special attention to these variables.
-tags:
-- Sports Sciences
-- Performance Analysis
+publication: '*International Journal of Performance Analysis in Sport*'
+doi: 10.1080/24748668.2019.1694305
 url_pdf: files/publications/2020-Almeida2020IJPAS.pdf
-featured: false
 ---

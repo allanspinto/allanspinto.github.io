@@ -1,16 +1,41 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: 'Pelee-Text++: A Tiny Neural Network for Scene Text Detection'
+subtitle: ''
+summary: ''
 authors:
 - M. Córdova
 - A. Pinto
 - H. Pedrini
 - R. d. S. Torres
+tags:
+- Performance evaluation;Training;Computational modeling;Neural networks;Random access
+  memory;Proposals;Smart phones;Text detection;mobile-network;mobile devices;multi-oriented
+  text;multi-lingual;convolutional neural network
+categories: []
 date: '2020-12-01'
-publishDate: '2023-12-14T17:43:58.658063Z'
+lastmod: 2023-12-14T14:57:24-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:23.969996Z'
 publication_types:
 - '2'
-publication: '*IEEE Access*'
-doi: 10.1109/ACCESS.2020.3043813
 abstract: Scene text detection has become an important field in the computer vision
   area due to the increasing number of applications. This is a very challenging problem
   as textual elements are commonly found in “noisy” and complex natural scenes. Another
@@ -29,12 +54,9 @@ abstract: Scene text detection has become an important field in the computer vis
   effectiveness, with a model size of 27 Megabytes and F-measure of 91.20%, 85.78%,
   81.72%, 80.30%, 82.53% and 66.51% on ICDAR 2011, ICDAR 2013, ICDAR 2015, MSRA-TD500,
   ReCTS 2019 and Multi-lingual 2019 datasets, respectively.
-tags:
-- Performance evaluation;Training;Computational modeling;Neural networks;Random access
-  memory;Proposals;Smart phones;Text detection;mobile-network;mobile devices;multi-oriented
-  text;multi-lingual;convolutional neural network
+publication: '*IEEE Access*'
+doi: 10.1109/ACCESS.2020.3043813
 links:
 - name: URL
   url: https://doi.org/10.1109/ACCESS.2020.3043813
-featured: false
 ---

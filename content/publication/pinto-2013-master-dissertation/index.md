@@ -1,11 +1,11 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: A countermeasure method for video-based face spoofing attacks
+subtitle: ''
+summary: ''
 authors:
 - Allan Pinto
-date: '2013-10-01'
-publishDate: '2023-12-14T17:43:58.500106Z'
-publication_types:
-- '7'
 tags:
 - Biometrics
 - Face Recognition
@@ -13,8 +13,30 @@ tags:
 - Iris Recognition
 - Information Security
 - Digital Image Forensics
-url_pdf: files/publications/2013-Pinto2013MasterDissertation.pdf
-abstract: ''
+categories: []
+date: '2013-10-01'
+lastmod: 2023-12-14T14:57:23-03:00
 featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:23.741880Z'
+publication_types:
+- '7'
+abstract: ''
 publication: ''
+url_pdf: files/publications/2013-Pinto2013MasterDissertation.pdf
 ---

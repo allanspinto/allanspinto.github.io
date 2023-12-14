@@ -1,5 +1,9 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: 'On the Fusion of Text Detection Results: A Genetic Programming Approach'
+subtitle: ''
+summary: ''
 authors:
 - J. L. Flores Campana
 - A. Pinto
@@ -8,12 +12,35 @@ authors:
 - A. Santos
 - J. S. Conceição
 - R. da Silva Torres
+tags:
+- Text Localization
+- Text Recognition
+- Machine Learning
+- Computer Vision
+- Mobile Devices
+categories: []
 date: '2020-04-01'
-publishDate: '2023-12-14T17:43:58.000095Z'
+lastmod: 2023-12-14T14:57:23-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:23.296273Z'
 publication_types:
 - '2'
-publication: '*IEEE Access*'
-doi: 10.1109/ACCESS.2020.2987869
 abstract: Hundreds of text detection methods have been proposed, motivated by their
   widespread use in several applications. Despite the huge progress in the area, which
   includes even the use of sophisticated learning schemes, ad-hoc post-processing
@@ -27,12 +54,7 @@ abstract: Hundreds of text detection methods have been proposed, motivated by th
   the widely used ICDAR 2011, ICDAR 2013, and ICDAR 2015 datasets demonstrate that
   our GP-based approach leads to F1 effectiveness gains up to 5.1 percentage points,
   when compared to several baselines.
-tags:
-- Text Localization
-- Text Recognition
-- Machine Learning
-- Computer Vision
-- Mobile Devices
+publication: '*IEEE Access*'
+doi: 10.1109/ACCESS.2020.2987869
 url_pdf: files/publications/2020-Campana2020IEEEAccess.pdf
-featured: false
 ---

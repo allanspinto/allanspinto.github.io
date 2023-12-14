@@ -1,5 +1,9 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: Parallax Motion Effect Generation Through Instance Segmentation And Depth Estimation
+subtitle: ''
+summary: ''
 authors:
 - A. Pinto
 - M. A. Córdova
@@ -12,11 +16,34 @@ authors:
 - D. C. Luvizon
 - R. d. S. Torres
 - H. Pedrini
+tags:
+- Computer Vision
+- Machine Learning
+- Segmentation
+- Object Detection
+categories: []
 date: '2020-10-01'
-publishDate: '2023-12-14T17:43:58.577568Z'
+lastmod: 2023-12-14T14:57:23-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:23.887075Z'
 publication_types:
 - '1'
-publication: '*2020 IEEE International Conference on Image Processing (ICIP)*'
 abstract: Stereo vision is a growing topic in computer vision due to the innumerable
   opportunities and applications this technology offers for the development of modern
   solutions, such as virtual and augmented reality applications. To enhance the user's
@@ -30,11 +57,6 @@ abstract: Stereo vision is a growing topic in computer vision due to the innumer
   estimation at once. Experimental results and visual quality assessment indicate
   that the PyD-Net network (depth estimation) combined with Mask R-CNN or FBNet networks
   (instance segmentation) can produce parallax motion effects with good visual quality.
-tags:
-- Computer Vision
-- Machine Learning
-- Segmentation
-- Object Detection
+publication: '*2020 IEEE International Conference on Image Processing (ICIP)*'
 url_pdf: files/publications/2020-Pinto2020ICIP.pdf
-featured: false
 ---

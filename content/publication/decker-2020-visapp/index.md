@@ -1,5 +1,9 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: 'MobText: A Compact Method for Scene Text Localization'
+subtitle: ''
+summary: ''
 authors:
 - Luis Gustavo Lorgus Decker.
 - Allan Pinto.
@@ -10,13 +14,35 @@ authors:
 - Marcus A. Angeloni.
 - Lin Tzy Li.
 - Ricardo da S. Torres.
+tags:
+- Text Localization
+- Text Recognition
+- Machine Learning
+- Computer Vision
+- Mobile Devices
+categories: []
 date: '2020-01-01'
-publishDate: '2023-12-14T17:43:57.924754Z'
+lastmod: 2023-12-14T14:57:23-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:23.216286Z'
 publication_types:
 - '1'
-publication: '*Proceedings of the 15th International Joint Conference on Computer
-  Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP,*'
-doi: 10.5220/0008954103430350
 abstract: Multiple research initiatives have been reported to yield highly effective
   results for the text detection problem. However, most of those solutions are very
   costly, which hamper their use in several applications that rely on the use of devices
@@ -27,12 +53,8 @@ abstract: Multiple research initiatives have been reported to yield highly effec
   results in the ICDAR'11 and ICDAR'13 datasets demonstrate that our solution yields
   the best trade-off between effectiveness and efficiency and also achieved the state-of-the-art
   results in the ICDAR'11 dataset with an f-measure of 96.09%.
-tags:
-- Text Localization
-- Text Recognition
-- Machine Learning
-- Computer Vision
-- Mobile Devices
+publication: '*Proceedings of the 15th International Joint Conference on Computer
+  Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP,*'
+doi: 10.5220/0008954103430350
 url_pdf: files/publications/2020-Decker2020VISAPP.pdf
-featured: false
 ---

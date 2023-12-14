@@ -1,5 +1,9 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: 'Sport action mining: Dribbling recognition in soccer'
+subtitle: ''
+summary: ''
 authors:
 - Sylvio Barbon Junior
 - Allan Pinto
@@ -8,12 +12,30 @@ authors:
 - Felipe Arruda Moura
 - Sergio Augusto Cunha
 - Ricardo da Silva Torres
+tags: []
+categories: []
 date: '2021-12-01'
-publishDate: '2023-12-14T17:43:59.123805Z'
+lastmod: 2023-12-14T14:57:24-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:24.304301Z'
 publication_types:
 - '2'
-publication: '*Multimedia Tools and Applications*'
-doi: 10.1007/s11042-021-11784-1
 abstract: Recent advances in Computer Vision and Machine Learning empowered the use
   of image and positional data in several high-level analyses in Sports Science, such
   as player action classification, recognition of complex human movements, and tactical
@@ -32,8 +54,9 @@ abstract: Recent advances in Computer Vision and Machine Learning empowered the 
   of 93.3% for detecting dribbling actions, which are considered complex events in
   soccer. Additionally, the proposed framework provides insights on players' skills
   and player's roles based on a small amount of positional data.
+publication: '*Multimedia Tools and Applications*'
+doi: 10.1007/s11042-021-11784-1
 links:
 - name: URL
   url: https://doi.org/10.1007/s11042-021-11784-1
-featured: false
 ---

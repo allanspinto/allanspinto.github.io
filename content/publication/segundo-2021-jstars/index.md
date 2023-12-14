@@ -1,19 +1,40 @@
 ---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
 title: 'Measuring economic activity from space: a case study using flying airplanes
   and COVID-19'
+subtitle: ''
+summary: ''
 authors:
 - Mauricio Pamplona Segundo
 - Allan Pinto
 - Rodrigo Minetto
 - Ricardo da S. Torres
 - Sudeep Sarkar
+tags: []
+categories: []
 date: '2021-01-01'
-publishDate: '2023-12-14T17:43:58.968424Z'
+lastmod: 2023-12-14T14:57:24-03:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-12-14T17:57:24.139587Z'
 publication_types:
 - '2'
-publication: '*IEEE Journal of Selected Topics in Applied Earth Observations and Remote
-  Sensing*'
-doi: 10.1109/JSTARS.2021.3094053
 abstract: This work introduces a novel solution to measure economic activity through
   remote sensing for a wide range of spatial areas. We hypothesize that disturbances
   in human behavior caused by major life-changing events leave signatures in satellite
@@ -27,5 +48,7 @@ abstract: This work introduces a novel solution to measure economic activity thr
   into the RACE dashboard. This platform combines satellite data and artificial intelligence
   to promote a progressive and safe reopening of essential activities. Code, trained
   model, and data are available at https://github.com/maups/covid19-custom-script-contest
-featured: false
+publication: '*IEEE Journal of Selected Topics in Applied Earth Observations and Remote
+  Sensing*'
+doi: 10.1109/JSTARS.2021.3094053
 ---
