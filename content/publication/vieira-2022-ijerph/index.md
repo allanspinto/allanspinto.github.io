@@ -9,7 +9,7 @@ authors:
 - Ricardo da S. Torres
 - Fabio A. Barbieri
 date: '2022-01-01'
-publishDate: '2023-12-14T16:43:49.934439Z'
+publishDate: '2023-12-14T17:25:07.496049Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Environmental Research and Public Health*'

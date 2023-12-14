@@ -7,7 +7,7 @@ authors:
 - Allan Pinto
 - Felipe Moura
 date: '2022-05-01'
-publishDate: '2023-12-14T16:43:49.959811Z'
+publishDate: '2023-12-14T17:25:07.512031Z'
 publication_types:
 - article-journal
 publication: '*Research Quarterly for Exercise and Sport*'
@@ -31,5 +31,5 @@ abstract: ' ABSTRACTPurpose: With the increased access to neural networks traine
   changes in bicycle configuration. '
 links:
 - name: URL
-  url: '  https://doi.org/10.1080/02701367.2022.2070103   '
+  url: https://doi.org/10.1080/02701367.2022.2070103
 ---

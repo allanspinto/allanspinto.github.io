@@ -8,7 +8,7 @@ authors:
 - Marije Elferink-Gemser
 - Sergio Cunha
 date: '2022-01-01'
-publishDate: '2023-12-14T16:43:49.901752Z'
+publishDate: '2023-12-14T17:25:07.464698Z'
 publication_types:
 - article-journal
 publication: '*Human Movement*'

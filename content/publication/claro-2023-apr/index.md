@@ -12,7 +12,7 @@ authors:
 - Adalberto Fazzio
 - Rubia F. Gouveia
 date: '2023-04-01'
-publishDate: '2023-12-14T16:43:49.981604Z'
+publishDate: '2023-12-14T17:25:07.528136Z'
 publication_types:
 - article-journal
 publication: '*Applied Physics Reviews*'
@@ -38,5 +38,4 @@ abstract: X-ray computed microtomography (μCT) is an innovative and nondestruct
 links:
 - name: URL
   url: https://doi.org/10.1063/5.0129324
-featured: true
 ---

@@ -9,7 +9,7 @@ authors:
 - H. Pedrini
 - A. Rocha
 date: '2020-04-01'
-publishDate: '2023-12-14T16:43:49.778473Z'
+publishDate: '2023-12-14T17:25:07.335932Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Information Forensics and Security*'
@@ -35,5 +35,4 @@ tags:
 - Information Security
 - Digital Image Forensics
 url_pdf: files/publications/2020-Pinto2020TIFS.pdf
-featured: true
 ---

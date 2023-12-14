@@ -11,7 +11,7 @@ authors:
 - Thiago V. Spina
 - Eduardo X. Miqueles
 date: '2022-07-01'
-publishDate: '2023-12-14T16:43:49.945592Z'
+publishDate: '2023-12-14T17:25:07.504084Z'
 publication_types:
 - article-journal
 publication: '*Synchrotron Radiation News*'
@@ -43,5 +43,4 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1080/08940886.2022.2112501
-featured: true
 ---

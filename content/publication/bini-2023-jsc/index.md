@@ -7,28 +7,28 @@ authors:
 - Allan Pinto
 - Felipe Moura
 date: '2023-01-01'
-publishDate: '2023-12-14T16:43:49.996948Z'
+publishDate: '2023-12-14T17:25:07.543552Z'
 publication_types:
 - article-journal
 publication: '*Journal of Sports Sciences*'
 doi: 10.1080/02640414.2023.2194725
-abstract: ' ABSTRACTThe use of marker-less methods to automatically obtain kinematics
-  of movement is expanding but validity to high-velocity tasks such as cycling with
-  the presence of the bicycle on the field of view is needed when standard video footage
-  is obtained. The purpose of this study was to assess if pre-trained neural networks
-  are valid for calculations of lower limb joint kinematics during cycling. Motion
-  of twenty-six cyclists pedalling on a cycle trainer was captured by a video camera
-  capturing frames from the sagittal plane whilst reflective markers were attached
-  to their lower limb. The marker-tracking method was compared to two established
-  deep learning-based approaches (Microsoft Research Asia-MSRA and OpenPose) to estimate
-  hip, knee and ankle joint angles. Poor to moderate agreement was found for both
-  methods, with OpenPose differing from the criterion by 4–8° for the hip and knee
-  joints. Larger errors were observed for the ankle joint (15–22°) but no significant
-  differences between methods throughout the crank cycle when assessed using Statistical
-  Parametric Mapping were observed for any of the joints. OpenPose presented stronger
-  agreement with marker-tracking (criterion) than the MSRA for the hip and knee joints
-  but resulted in poor agreement for the ankle joint. '
+abstract: 'The use of marker-less methods to automatically obtain kinematics of movement
+  is expanding but validity to high-velocity tasks such as cycling with the presence
+  of the bicycle on the field of view is needed when standard video footage is obtained.
+  The purpose of this study was to assess if pre-trained neural networks are valid
+  for calculations of lower limb joint kinematics during cycling. Motion of twenty-six
+  cyclists pedalling on a cycle trainer was captured by a video camera capturing frames
+  from the sagittal plane whilst reflective markers were attached to their lower limb.
+  The marker-tracking method was compared to two established deep learning-based approaches
+  (Microsoft Research Asia-MSRA and OpenPose) to estimate hip, knee and ankle joint
+  angles. Poor to moderate agreement was found for both methods, with OpenPose differing
+  from the criterion by 4–8° for the hip and knee joints. Larger errors were observed
+  for the ankle joint (15–22°) but no significant differences between methods throughout
+  the crank cycle when assessed using Statistical Parametric Mapping were observed
+  for any of the joints. OpenPose presented stronger agreement with marker-tracking
+  (criterion) than the MSRA for the hip and knee joints but resulted in poor agreement
+  for the ankle joint. '
 links:
 - name: URL
-  url: '  https://doi.org/10.1080/02640414.2023.2194725   '
+  url: https://doi.org/10.1080/02640414.2023.2194725
 ---

@@ -9,7 +9,7 @@ authors:
 - Sergio Augusto Cunha
 - Ricardo da Silva Torres
 date: '2021-12-01'
-publishDate: '2023-12-14T16:43:49.909319Z'
+publishDate: '2023-12-14T17:25:07.472564Z'
 publication_types:
 - article-journal
 publication: '*Multimedia Tools and Applications*'

@@ -8,7 +8,7 @@ authors:
 - G. R. Pinheiro
 - ' A.Rocha'
 date: '2012-01-01'
-publishDate: '2023-12-14T16:43:49.785756Z'
+publishDate: '2023-12-14T17:25:07.343538Z'
 publication_types:
 - chapter
 publication: '*Anais da VII Escola Regional de InformÃ¡tica de Minas Gerais. 1ed.Juiz

@@ -6,7 +6,7 @@ authors:
 - W. Schwartz
 - A. Rocha
 date: '2012-08-01'
-publishDate: '2023-12-14T16:43:49.693682Z'
+publishDate: '2023-12-14T17:25:07.249917Z'
 publication_types:
 - paper-conference
 publication: '*25th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)*'

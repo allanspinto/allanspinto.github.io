@@ -8,7 +8,7 @@ authors:
 - Ricardo da S. Torres
 - Sudeep Sarkar
 date: '2021-01-01'
-publishDate: '2023-12-14T16:43:49.894890Z'
+publishDate: '2023-12-14T17:25:07.457634Z'
 publication_types:
 - article-journal
 publication: '*IEEE Journal of Selected Topics in Applied Earth Observations and Remote

@@ -11,7 +11,7 @@ authors:
 - Pedro Paulo Menezes Scariot
 - Claudio Alexandre Gobatto
 date: '2022-01-01'
-publishDate: '2023-12-14T16:43:49.925102Z'
+publishDate: '2023-12-14T17:25:07.488059Z'
 publication_types:
 - article-journal
 publication: '*Scientific Reports*'
