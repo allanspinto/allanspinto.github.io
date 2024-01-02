@@ -85,49 +85,6 @@ sections:
   #         description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '2'
-  - block: accomplishments
-    id: awards
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url:
-          date_end: ''
-          date_start: '2020-09-01'
-          description: Measuring Airport Activity from Sentinel-2 Imagery to Support Decision-Making during the Pandemic
-          icon: esa
-          organization: Organized by Europe Spacial Agency (ESA)
-          organization_url: http://www.esa.int
-          title: 1st Place Winner of the Upscaling Euro Data Cube COVID-19 Script Contest
-          url: 'https://eo4society.esa.int/2020/10/12/race-upscaling-competition-winners'
-        - certificate_url:
-          date_end: ''
-          date_start: '2019-12-01'
-          description: 1st Place Winner of Best Computer Science Ph.D. Thesis (National)
-          icon: capes
-          organization: Organized by Coordination of Superior Level Staff Improvement (CAPES)
-          organization_url: https://www.capes.gov.br
-          title: 2019 CAPES Best Computer Science Thesis Award
-          url: 'https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese/teses-premiadas/teses-premiadas-em-2019'
-        - certificate_url:
-          date_end: ''
-          date_start: '2019-05-01'
-          description: Best Computer Science Ph.D. Thesis of the IC/Unicamp in 2018.
-          icon: unicamp
-          organization: Organized by the Institute of Computing (IC/Unicamp)
-          organization_url: http://ic.unicamp.br
-          title: 2019 Unicamp Thesis and Dissertation Contest
-          url: 'https://ic.unicamp.br/conheca-o-ic/premiacoes/premiados'
-    design:
-      columns: '2'
   # - block: collection
   #   id: posts
   #   content:
@@ -216,6 +173,49 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: accomplishments
+    id: awards
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Awards'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url:
+          date_end: ''
+          date_start: '2020-09-01'
+          description: Measuring Airport Activity from Sentinel-2 Imagery to Support Decision-Making during the Pandemic
+          icon: esa
+          organization: Organized by Europe Spacial Agency (ESA)
+          organization_url: http://www.esa.int
+          title: 1st Place Winner of the Upscaling Euro Data Cube COVID-19 Script Contest
+          url: 'https://eo4society.esa.int/2020/10/12/race-upscaling-competition-winners'
+        - certificate_url:
+          date_end: ''
+          date_start: '2019-12-01'
+          description: 1st Place Winner of Best Computer Science Ph.D. Thesis (National)
+          icon: capes
+          organization: Organized by Coordination of Superior Level Staff Improvement (CAPES)
+          organization_url: https://www.capes.gov.br
+          title: 2019 CAPES Best Computer Science Thesis Award
+          url: 'https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese/teses-premiadas/teses-premiadas-em-2019'
+        - certificate_url:
+          date_end: ''
+          date_start: '2019-05-01'
+          description: Best Computer Science Ph.D. Thesis of the IC/Unicamp in 2018.
+          icon: unicamp
+          organization: Organized by the Institute of Computing (IC/Unicamp)
+          organization_url: http://ic.unicamp.br
+          title: 2019 Unicamp Thesis and Dissertation Contest
+          url: 'https://ic.unicamp.br/conheca-o-ic/premiacoes/premiados'
+    design:
+      columns: '2'
   # - block: collection
   #   id: talks
   #   content:
