@@ -17,7 +17,7 @@ tags:
 - Digital Image Forensics
 categories: []
 date: '2012-08-01'
-lastmod: 2023-12-14T15:50:18-03:00
+lastmod: 2024-12-06T10:47:25-03:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:18.210394Z'
+publishDate: '2024-12-06T13:47:25.299253Z'
 publication_types:
 - '1'
 abstract: Recent advances on biometrics, information forensics, and security have

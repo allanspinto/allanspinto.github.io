@@ -11,10 +11,14 @@ authors:
 - Ricardo Torres
 - Marije Elferink-Gemser
 - Sergio Cunha
-tags: []
+tags:
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Sports Science
 categories: []
 date: '2022-01-01'
-lastmod: 2023-12-14T15:50:20-03:00
+lastmod: 2024-12-06T10:47:27-03:00
 featured: false
 draft: false
 
@@ -32,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:20.560223Z'
+publishDate: '2024-12-06T13:47:27.893089Z'
 publication_types:
 - '2'
 abstract: Dribbling is a meaningful skill in soccer, due to its effectiveness to create

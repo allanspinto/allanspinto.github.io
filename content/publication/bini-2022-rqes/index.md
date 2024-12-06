@@ -10,10 +10,14 @@ authors:
 - Paulo Roberto Pereira Santiago
 - Allan Pinto
 - Felipe Moura
-tags: []
+tags:
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Sports Science
 categories: []
 date: '2022-05-01'
-lastmod: 2023-12-14T15:50:21-03:00
+lastmod: 2024-12-06T10:47:28-03:00
 featured: false
 draft: false
 
@@ -31,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:21.064989Z'
+publishDate: '2024-12-06T13:47:28.390881Z'
 publication_types:
 - '2'
 abstract: ' ABSTRACTPurpose: With the increased access to neural networks trained

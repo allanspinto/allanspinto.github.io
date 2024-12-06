@@ -26,7 +26,7 @@ tags:
 - Image Phylogeny
 categories: []
 date: '2017-09-01'
-lastmod: 2023-12-14T15:50:18-03:00
+lastmod: 2024-12-06T10:47:26-03:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:18.716271Z'
+publishDate: '2024-12-06T13:47:26.061533Z'
 publication_types:
 - '1'
 abstract: As image tampering becomes ever more sophisticated and commonplace, the

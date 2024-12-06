@@ -15,7 +15,7 @@ tags:
 - Reconfigurable Computing
 categories: []
 date: '2009-01-01'
-lastmod: 2023-12-14T15:50:20-03:00
+lastmod: 2024-12-06T10:47:27-03:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:20.053137Z'
+publishDate: '2024-12-06T13:47:27.392645Z'
 publication_types:
 - '1'
 abstract: ''

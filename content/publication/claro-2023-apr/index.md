@@ -2,7 +2,7 @@
 # Documentation: https://hugoblox.com/docs/managing-content/
 
 title: 'From micro- to nano- and time-resolved x-ray computed tomography: Bio-based
-  applications, synchrotron capabilities, and data-driven processing'
+  applications, synchrotron, synchrotron capabilities, and data-driven processing'
 subtitle: ''
 summary: ''
 authors:
@@ -22,6 +22,7 @@ tags:
 - Porous media
 - Biomaterials
 - Computational methods
+- Synchrotron
 - Synchrotron Radiation Application
 - X-ray Computed Tomography
 - X-ray Computed Microtomography
@@ -29,7 +30,7 @@ tags:
 - Time-resolved X-ray Computed Tomography
 categories: []
 date: '2023-04-01'
-lastmod: 2023-12-14T15:50:21-03:00
+lastmod: 2024-12-06T10:47:28-03:00
 featured: true
 draft: false
 
@@ -47,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:21.243929Z'
+publishDate: '2024-12-06T13:47:28.557665Z'
 publication_types:
 - '2'
 abstract: X-ray computed microtomography (μCT) is an innovative and nondestructive

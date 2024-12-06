@@ -11,10 +11,13 @@ authors:
 - Rodrigo Minetto
 - Ricardo da S. Torres
 - Sudeep Sarkar
-tags: []
+tags:
+- Machine Learning
+- Artificial Intelligence
+- Remote Sensing
 categories: []
 date: '2021-01-01'
-lastmod: 2023-12-14T15:50:20-03:00
+lastmod: 2024-12-06T10:47:27-03:00
 featured: false
 draft: false
 
@@ -32,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:20.474535Z'
+publishDate: '2024-12-06T13:47:27.810791Z'
 publication_types:
 - '2'
 abstract: This work introduces a novel solution to measure economic activity through

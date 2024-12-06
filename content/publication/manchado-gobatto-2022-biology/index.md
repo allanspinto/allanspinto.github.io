@@ -15,10 +15,14 @@ authors:
 - Marlene Aparecida Moreno
 - Allan Silva Pinto
 - Claudio Alexandre Gobatto
-tags: []
+tags:
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Sports Science
 categories: []
 date: '2022-06-01'
-lastmod: 2023-12-14T15:50:21-03:00
+lastmod: 2024-12-06T10:47:28-03:00
 featured: false
 draft: false
 
@@ -36,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:21.154005Z'
+publishDate: '2024-12-06T13:47:28.475282Z'
 publication_types:
 - '2'
 abstract: 'Although several studies have focused on the adaptations provided by inspiratory

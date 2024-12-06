@@ -12,10 +12,17 @@ authors:
 - Ibrahim A. Hameed
 - Helio Pedrini
 - Ricardo da S. Torres
-tags: []
+tags:
+- Marine litter monitoring
+- Citizen science
+- Mobile application
+- Machine learning
+- Litter detection
+- Geographic visualization
+- User study
 categories: []
 date: '2022-01-01'
-lastmod: 2023-12-14T15:50:20-03:00
+lastmod: 2024-12-06T10:47:28-03:00
 featured: false
 draft: false
 
@@ -33,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:20.738229Z'
+publishDate: '2024-12-06T13:47:28.058048Z'
 publication_types:
 - '2'
 abstract: Pollution in the form of litter in the natural environment is one of the

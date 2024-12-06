@@ -22,7 +22,7 @@ tags:
 - Mobile Devices
 categories: []
 date: '2019-12-01'
-lastmod: 2023-12-14T15:50:19-03:00
+lastmod: 2024-12-06T10:47:26-03:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:19.554001Z'
+publishDate: '2024-12-06T13:47:26.892720Z'
 publication_types:
 - '1'
 abstract: Nowadays, scene text detection has received a lot of attention due to its

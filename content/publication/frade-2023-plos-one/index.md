@@ -13,10 +13,14 @@ authors:
 - Silvia Cristina Garcia de Moura Tonello
 - Ricardo da Silva Torres
 - Aparecida Maria Catai
-tags: []
+tags:
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Sports Science
 categories: []
 date: '2023-03-01'
-lastmod: 2023-12-14T15:50:21-03:00
+lastmod: 2024-12-06T10:47:28-03:00
 featured: false
 draft: false
 
@@ -34,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:21.326932Z'
+publishDate: '2024-12-06T13:47:28.641579Z'
 publication_types:
 - '2'
 abstract: Cardiopulmonary exercise testing (CPET) is a non-invasive approach to measure

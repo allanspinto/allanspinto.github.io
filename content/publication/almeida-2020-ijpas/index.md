@@ -15,7 +15,7 @@ tags:
 - Performance Analysis
 categories: []
 date: '2020-11-01'
-lastmod: 2023-12-14T15:50:19-03:00
+lastmod: 2024-12-06T10:47:26-03:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:19.307330Z'
+publishDate: '2024-12-06T13:47:26.644760Z'
 publication_types:
 - '2'
 abstract: The aim of this study was to identify the most relevant variables to characterise

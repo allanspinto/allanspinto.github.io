@@ -15,7 +15,7 @@ tags:
   text;multi-lingual;convolutional neural network
 categories: []
 date: '2020-12-01'
-lastmod: 2023-12-14T15:50:20-03:00
+lastmod: 2024-12-06T10:47:27-03:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-14T18:50:20.309035Z'
+publishDate: '2024-12-06T13:47:27.641096Z'
 publication_types:
 - '2'
 abstract: Scene text detection has become an important field in the computer vision
